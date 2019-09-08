@@ -1,0 +1,919 @@
+,PROPERTIES PAGE,property_name,area,address,sell_price,rent_price,bedrooms,living_rooms,years,efficiency_ratio
+0,1,Forfar,Kln Tong / Beacon Hill ,Flat B| High Floor|  The Forfar| Forfar| Kln Tong / Beacon Hill ,$50.00M,$85.000,4.0,2.0,9.0,75.0
+1,1,King's Park Hill,Homantin/Kingspark ,High Floor|  Apt 70 ( Blk 4 )| King's Park Hill| Homantin/Kingspark ,$98.00M,$138.000,5.0,2.0,19.0,68.0
+2,1,34G Braga Circuit,Kadoorie Hill , 34G Braga Circuit| Kadoorie Hill ,$38.00M,$56.000,3.0,2.0,63.0,
+3,1,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| Low Floor|  Block 04| Beverly Villas| Kln Tong / Beacon Hill ,$23.80M,$56.000,3.0,2.0,38.0,93.0
+4,1,One Mayfair,Kln Tong / Beacon Hill , Block 7| One Mayfair| Kln Tong / Beacon Hill ,$42.00M,$56.000,3.0,1.0,7.0,78.0
+5,1,Ultima,Homantin/Kingspark ,Flat B| Middle Floor|  Tower 2| Phase 2| Ultima| Homantin/Kingspark ,$90.00M,$56.000,4.0,2.0,3.0,
+6,1,Dunbar Place,Homantin/Kingspark ,Flat B| High Floor|  Dunbar Place| Homantin/Kingspark ,$36.00M,$56.000,3.0,2.0,5.0,
+7,1,Park View Court,Western Mid-Levels ,High Floor|  Block B| Park View Court| Western Mid-Levels ,$42.00M,$95.000,4.0,2.0,45.0,75.0
+8,1,Ellery Terrace,Homantin/Kingspark ,Flat A| High Floor|  Ellery Terr| Ellery Terrace| Homantin/Kingspark ,$25.00M,$50.000,3.0,2.0,19.0,78.0
+9,1,Marple Court,Kln Tong / Beacon Hill ,Flat F|  Marple Court| Kln Tong / Beacon Hill ,$16.80M,$38.000,2.0,2.0,47.0,80.0
+10,1,Padek Palace,Prince Edward Rd ,Flat C| Middle Floor|  Padek Palace| Prince Edward Rd ,$40.00M,$50.000,4.0,2.0,15.0,
+11,1,Padek Palace,Prince Edward Rd ,Flat D| High Floor|  Padek Palace| Prince Edward Rd ,$40.00M,$50.000,6.0,2.0,15.0,
+12,1,Nga Yuen Building,Kln Tong / Beacon Hill ,Low Floor|  Nga Yuen Building| Kln Tong / Beacon Hill ,$18.50M,$37.000,3.0,2.0,55.0,80.0
+13,1,Hampton Place,Olympic Station ,Flat A| High Floor|  Block 1| Hampton Place| Olympic Station ,$11.00M,$23.000,2.0,2.0,15.0,75.0
+14,1,Silver Crest,Kln Tong / Beacon Hill , Silver Crest| Kln Tong / Beacon Hill ,$98.00M,$200.000,4.0,2.0,38.0,92.0
+15,1,One Beacon Hill,Kln Tong / Beacon Hill ,High Floor|  Block 18| Phase 4| One Beacon Hill| Kln Tong / Beacon Hill ,$108.00M,$200.000,5.0,3.0,15.0,78.0
+16,1,3 Julia Avenue,Homantin/Kingspark ,Flat C|  Julia Avenue 3| 3 Julia Avenue| Homantin/Kingspark ,$18.00M,$200.000,2.0,2.0,3.0,
+17,1,Padek Palace,Prince Edward Rd ,Flat A| Middle Floor|  Padek Palace| Prince Edward Rd ,$18.50M,$35.000,3.0,2.0,15.0,75.0
+18,2,Paris Garden,Prince Edward Rd ,Middle Floor|  Paris Garden| Prince Edward Rd ,$20.10M,$40.000,3.0,2.0,26.0,72.0
+19,2,Boundary Crest,Kln Tong / Beacon Hill ,High Floor|  Boundary Crest| Kln Tong / Beacon Hill ,$8.60M,$25.000,1.0,2.0,41.0,78.0
+20,2,Grandeur Villa,Yau Yat Chuen/Shek Kip Mei ,Low Floor|  Block 3| Grandeur Villa| Yau Yat Chuen/Shek Kip Mei ,$26.00M,$48.000,3.0,2.0,27.0,72.0
+21,2,Dynasty Heights,Yau Yat Chuen/Shek Kip Mei ,Flat B| High Floor|  Tropicana 3 (Block 23)| Dynasty Heights| Yau Yat Chuen/Shek Kip Mei ,$32.00M,$65.000,3.0,2.0,20.0,77.0
+22,2,Edwardian Heights,Homantin/Kingspark ,Flat B| High Floor|  Edwardian Heights ( Phase 2 )| Edwardian Heights| Homantin/Kingspark ,$15.00M,$30.000,3.0,2.0,46.0,76.0
+23,2,Le Chateau,Kln Tong / Beacon Hill ,Flat E|  Le Chateau| Kln Tong / Beacon Hill ,$29.80M,$30.000,4.0,2.0,6.0,80.0
+24,2,May Fair Court,Yau Yat Chuen/Shek Kip Mei , May Fair Court| Yau Yat Chuen/Shek Kip Mei ,$23.60M,$30.000,3.0,2.0,37.0,82.0
+25,2,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| Low Floor|  Block 7| Beverly Villas| Kln Tong / Beacon Hill ,$28.00M,$30.000,3.0,2.0,38.0,93.0
+26,2,Homantin Hillside,Hung Hom ,Flat A|  Block 1| Homantin Hillside| Hung Hom ,$38.00M,$30.000,4.0,,3.0,
+27,2,Ultima,Homantin/Kingspark ,Flat C| Middle Floor|  Block 7| Ultima| Homantin/Kingspark ,$69.00M,$30.000,4.0,2.0,3.0,
+28,2,The Colonnades,Argyle Street ,Flat B| Low Floor|  The Colonnades| Argyle Street ,$11.00M,$30.000,2.0,2.0,30.0,83.0
+29,2,Mantin Heights,Homantin/Kingspark ,Flat G|  Block 1| Mantin Heights| Homantin/Kingspark ,$16.00M,$30.000,2.0,2.0,2.0,
+30,2,Man Yuen,Homantin/Kingspark ,Low Floor|  Man Yuen| Homantin/Kingspark ,$15.00M,$30.000,3.0,2.0,51.0,90.0
+31,2,Fessenden Court,Kln Tong / Beacon Hill ,Flat A|  Fessenden Court| Kln Tong / Beacon Hill ,$19.00M,$30.000,3.0,2.0,43.0,83.0
+32,2,Dynasty Heights,Yau Yat Chuen/Shek Kip Mei ,Flat F| Low Floor|  Tropicana 6 (Block 21)| Dynasty Heights| Yau Yat Chuen/Shek Kip Mei ,$12.00M,$25.000,2.0,2.0,20.0,77.0
+33,2,Cheerworld Court,Homantin/Kingspark ,Low Floor|  Cheerworld Court| Homantin/Kingspark ,$16.50M,$34.000,3.0,2.0,25.0,61.0
+34,2,Gay Mansion,Waterloo Road ,Middle Floor|  Gay Mansion| Waterloo Road ,$10.00M,$34.000,3.0,2.0,53.0,70.0
+35,2,Duchy Heights,Homantin/Kingspark ,Flat A| Middle Floor|  Duchy Heights| Homantin/Kingspark ,$18.00M,$34.000,3.0,2.0,47.0,80.0
+36,3,Paris Garden,Prince Edward Rd ,Middle Floor|  Paris Garden| Prince Edward Rd ,$20.10M,$40.000,3.0,2.0,26.0,72.0
+37,3,Boundary Crest,Kln Tong / Beacon Hill ,High Floor|  Boundary Crest| Kln Tong / Beacon Hill ,$8.60M,$25.000,1.0,2.0,41.0,78.0
+38,3,Grandeur Villa,Yau Yat Chuen/Shek Kip Mei ,Low Floor|  Block 3| Grandeur Villa| Yau Yat Chuen/Shek Kip Mei ,$26.00M,$48.000,3.0,2.0,27.0,72.0
+39,3,Dynasty Heights,Yau Yat Chuen/Shek Kip Mei ,Flat B| High Floor|  Tropicana 3 (Block 23)| Dynasty Heights| Yau Yat Chuen/Shek Kip Mei ,$32.00M,$65.000,3.0,2.0,20.0,77.0
+40,3,Edwardian Heights,Homantin/Kingspark ,Flat B| High Floor|  Edwardian Heights ( Phase 2 )| Edwardian Heights| Homantin/Kingspark ,$15.00M,$30.000,3.0,2.0,46.0,76.0
+41,3,Le Chateau,Kln Tong / Beacon Hill ,Flat E|  Le Chateau| Kln Tong / Beacon Hill ,$29.80M,$30.000,4.0,2.0,6.0,80.0
+42,3,May Fair Court,Yau Yat Chuen/Shek Kip Mei , May Fair Court| Yau Yat Chuen/Shek Kip Mei ,$23.60M,$30.000,3.0,2.0,37.0,82.0
+43,3,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| Low Floor|  Block 7| Beverly Villas| Kln Tong / Beacon Hill ,$28.00M,$30.000,3.0,2.0,38.0,93.0
+44,3,Homantin Hillside,Hung Hom ,Flat A|  Block 1| Homantin Hillside| Hung Hom ,$38.00M,$30.000,4.0,,3.0,
+45,3,Ultima,Homantin/Kingspark ,Flat C| Middle Floor|  Block 7| Ultima| Homantin/Kingspark ,$69.00M,$30.000,4.0,2.0,3.0,
+46,3,The Colonnades,Argyle Street ,Flat B| Low Floor|  The Colonnades| Argyle Street ,$11.00M,$30.000,2.0,2.0,30.0,83.0
+47,3,Mantin Heights,Homantin/Kingspark ,Flat G|  Block 1| Mantin Heights| Homantin/Kingspark ,$16.00M,$30.000,2.0,2.0,2.0,
+48,3,Man Yuen,Homantin/Kingspark ,Low Floor|  Man Yuen| Homantin/Kingspark ,$15.00M,$30.000,3.0,2.0,51.0,90.0
+49,3,Fessenden Court,Kln Tong / Beacon Hill ,Flat A|  Fessenden Court| Kln Tong / Beacon Hill ,$19.00M,$30.000,3.0,2.0,43.0,83.0
+50,3,Dynasty Heights,Yau Yat Chuen/Shek Kip Mei ,Flat F| Low Floor|  Tropicana 6 (Block 21)| Dynasty Heights| Yau Yat Chuen/Shek Kip Mei ,$12.00M,$25.000,2.0,2.0,20.0,77.0
+51,3,Cheerworld Court,Homantin/Kingspark ,Low Floor|  Cheerworld Court| Homantin/Kingspark ,$16.50M,$34.000,3.0,2.0,25.0,61.0
+52,3,Gay Mansion,Waterloo Road ,Middle Floor|  Gay Mansion| Waterloo Road ,$10.00M,$34.000,3.0,2.0,53.0,70.0
+53,3,Duchy Heights,Homantin/Kingspark ,Flat A| Middle Floor|  Duchy Heights| Homantin/Kingspark ,$18.00M,$34.000,3.0,2.0,47.0,80.0
+54,4,Ultima,Homantin/Kingspark ,Flat A|  Block 7| Ultima| Homantin/Kingspark ,$43.00M,$60.000,3.0,2.0,3.0,
+55,4,One Homantin,Homantin/Kingspark ,Flat C|  Tower 5| One Homantin| Homantin/Kingspark ,$12.80M,$60.000,2.0,2.0,2.0,
+56,4,Mandarin Court,Argyle Street ,High Floor|  Block 1| Mandarin Court| Argyle Street ,$13.80M,$60.000,3.0,2.0,60.0,80.0
+57,4,One Beacon Hill,Kln Tong / Beacon Hill ,Flat D| Low Floor|  Block 09| Phase 3| One Beacon Hill| Kln Tong / Beacon Hill ,$29.80M,$48.000,3.0,2.0,15.0,75.0
+58,4,Harbour Green,Olympic Station ,Flat B| Low Floor|  Block 1| Harbour Green| Olympic Station ,$23.90M,$48.000,4.0,2.0,12.0,76.0
+59,4,Mantin Heights,Homantin/Kingspark ,Flat B|  Block 1| Mantin Heights| Homantin/Kingspark ,$19.00M,$48.000,2.0,2.0,2.0,
+60,4,Mantin Heights,Homantin/Kingspark ,Flat A|  Block 1| Mantin Heights| Homantin/Kingspark ,$16.00M,$48.000,2.0,2.0,2.0,
+61,4,Parc Palais,Homantin/Kingspark ,Flat C| High Floor|  Block 6| Parc Palais| Homantin/Kingspark ,$45.00M,$48.000,3.0,2.0,15.0,76.0
+62,4,Mantin Heights,Homantin/Kingspark ,Flat C| High Floor|  Block 5| Mantin Heights| Homantin/Kingspark ,$13.98M,$48.000,2.0,2.0,2.0,
+63,4,Stanford Villa,Stanley/Tai Tam/Shek O , Block 3| Stanford Villa| Stanley/Tai Tam/Shek O ,$20.00M,$48.000,2.0,2.0,24.0,82.0
+64,4,Caldecott Hill,Yau Yat Chuen/Shek Kip Mei ,Flat D|  Tower 2| Caldecott Hill| Yau Yat Chuen/Shek Kip Mei ,$16.00M,$33.000,3.0,2.0,14.0,77.0
+65,4,Tat Chee Court,Yau Yat Chuen/Shek Kip Mei ,High Floor|  Tat Chee Court| Yau Yat Chuen/Shek Kip Mei ,$15.00M,$33.000,3.0,2.0,33.0,88.0
+66,4,South Court,Kln Tong / Beacon Hill ,Flat F|  South Court| Kln Tong / Beacon Hill ,$19.98M,$33.000,3.0,2.0,45.0,84.0
+67,4,Carrie Court,Homantin/Kingspark ,Flat C| High Floor|  Carrie Court| Homantin/Kingspark ,$13.00M,$33.000,3.0,2.0,53.0,78.0
+68,4,Alice Court,Kln Tong / Beacon Hill ,Flat C|  Block A| Alice Court| Kln Tong / Beacon Hill ,$10.80M,$33.000,2.0,2.0,47.0,81.0
+69,4,8 Lasalle,Prince Edward Rd ,Flat B| Middle Floor|  8 Lasalle| Prince Edward Rd ,$39.60M,$33.000,3.0,2.0,5.0,
+70,4,Celestial Heights,Celestial Heights ,Flat 12| High Floor|  Celestial Avenue 12| Phase 2| Celestial Heights| Celestial Heights ,$31.00M,$33.000,3.0,2.0,9.0,76.0
+71,4,Ocean Shores,Tseung Kwan O ,Flat F| High Floor|  Block 07| Phase 2| Ocean Shores| Tseung Kwan O ,$14.00M,$27.000,,,17.0,74.0
+72,5,Prince's Heights,Prince Edward Rd ,Flat D| Low Floor|  Block 1| Prince's Heights| Prince Edward Rd ,$17.50M,$27.000,3.0,2.0,47.0,74.0
+73,5,Comfort Court,Kln Tong / Beacon Hill ,Flat B| Low Floor|  Comfort Court| Kln Tong / Beacon Hill ,$18.88M,$27.000,3.0,2.0,42.0,74.0
+74,5,Mantin Heights,Homantin/Kingspark ,Flat E|  Block 5| Mantin Heights| Homantin/Kingspark ,$18.00M,$27.000,2.0,2.0,2.0,
+75,5,Kadoorie Hill,Prince Edward Rd ,Flat A| Middle Floor|  Kadoorie Hill| Prince Edward Rd ,$53.50M,$27.000,4.0,2.0,6.0,76.0
+76,5,Celestial Heights,Celestial Heights ,Flat 33| Low Floor|  Celestial Avenue 33| Phase 1| Celestial Heights| Celestial Heights ,$27.80M,$27.000,3.0,2.0,10.0,77.0
+77,5,One Homantin,Homantin/Kingspark ,Flat E|  Tower 1| One Homantin| Homantin/Kingspark ,$13.50M,$27.000,2.0,2.0,2.0,
+78,5,One Homantin,Homantin/Kingspark ,Flat F|  Tower 2| One Homantin| Homantin/Kingspark ,$12.00M,$27.000,1.0,2.0,2.0,
+79,5,The Morgan,Western Mid-Levels ,Flat A|  The Morgan| Western Mid-Levels ,$98.00M,$168.000,3.0,2.0,2.0,
+80,5,The Colonnades,Argyle Street ,Flat E| High Floor|  The Colonnades| Argyle Street ,$12.00M,$168.000,2.0,2.0,30.0,83.0
+81,5,The Arch,Kowloon Station ,Flat A| Low Floor|  Tower 2A (Moon Tower)| The Arch| Kowloon Station ,$54.00M,$168.000,3.0,1.0,13.0,76.0
+82,5,Mantin Heights,Homantin/Kingspark ,Flat E|  Block 1| Mantin Heights| Homantin/Kingspark ,$16.80M,$168.000,2.0,2.0,2.0,
+83,5,Gar Fook Court,Kln Tong / Beacon Hill ,Flat F|  Gar Fook Court| Kln Tong / Beacon Hill ,$8.00M,$168.000,3.0,2.0,38.0,86.0
+84,5,The Harbourside,Kowloon Station ,Flat E| Low Floor|  Block 2| The Harbourside| Kowloon Station ,$33.60M,$43.000,2.0,1.0,16.0,72.0
+85,5,Mantin Heights,Homantin/Kingspark ,Flat B| Low Floor|  Block 1| Mantin Heights| Homantin/Kingspark ,$18.70M,$43.000,2.0,2.0,2.0,
+86,5,Ming Garden,Prince Edward Rd ,Middle Floor|  Ming Garden| Prince Edward Rd ,$15.90M,$43.000,3.0,2.0,30.0,84.0
+87,5,Yee On Court,Waterloo Road ,High Floor|  Block B| Yee On Court| Waterloo Road ,$12.00M,$43.000,3.0,2.0,42.0,85.0
+88,5,The Victoria Towers,Tsim Sha Tsui ,Flat D| Middle Floor|  Block 2| The Victoria Towers| Tsim Sha Tsui ,$15.00M,$43.000,2.0,1.0,16.0,65.0
+89,5,One Homantin,Homantin/Kingspark ,Flat G| Middle Floor|  Tower 3| One Homantin| Homantin/Kingspark ,$13.68M,$43.000,2.0,2.0,2.0,
+90,6,Prince's Heights,Prince Edward Rd ,Flat D| Low Floor|  Block 1| Prince's Heights| Prince Edward Rd ,$17.50M,$43.000,3.0,2.0,47.0,74.0
+91,6,Comfort Court,Kln Tong / Beacon Hill ,Flat B| Low Floor|  Comfort Court| Kln Tong / Beacon Hill ,$18.88M,$43.000,3.0,2.0,42.0,74.0
+92,6,Mantin Heights,Homantin/Kingspark ,Flat E|  Block 5| Mantin Heights| Homantin/Kingspark ,$18.00M,$43.000,2.0,2.0,2.0,
+93,6,Kadoorie Hill,Prince Edward Rd ,Flat A| Middle Floor|  Kadoorie Hill| Prince Edward Rd ,$53.50M,$43.000,4.0,2.0,6.0,76.0
+94,6,Celestial Heights,Celestial Heights ,Flat 33| Low Floor|  Celestial Avenue 33| Phase 1| Celestial Heights| Celestial Heights ,$27.80M,$43.000,3.0,2.0,10.0,77.0
+95,6,One Homantin,Homantin/Kingspark ,Flat E|  Tower 1| One Homantin| Homantin/Kingspark ,$13.50M,$43.000,2.0,2.0,2.0,
+96,6,One Homantin,Homantin/Kingspark ,Flat F|  Tower 2| One Homantin| Homantin/Kingspark ,$12.00M,$43.000,1.0,2.0,2.0,
+97,6,The Morgan,Western Mid-Levels ,Flat A|  The Morgan| Western Mid-Levels ,$98.00M,$168.000,3.0,2.0,2.0,
+98,6,The Colonnades,Argyle Street ,Flat E| High Floor|  The Colonnades| Argyle Street ,$12.00M,$168.000,2.0,2.0,30.0,83.0
+99,6,The Arch,Kowloon Station ,Flat A| Low Floor|  Tower 2A (Moon Tower)| The Arch| Kowloon Station ,$54.00M,$168.000,3.0,1.0,13.0,76.0
+100,6,Mantin Heights,Homantin/Kingspark ,Flat E|  Block 1| Mantin Heights| Homantin/Kingspark ,$16.80M,$168.000,2.0,2.0,2.0,
+101,6,Gar Fook Court,Kln Tong / Beacon Hill ,Flat F|  Gar Fook Court| Kln Tong / Beacon Hill ,$8.00M,$168.000,3.0,2.0,38.0,86.0
+102,6,The Harbourside,Kowloon Station ,Flat E| Low Floor|  Block 2| The Harbourside| Kowloon Station ,$33.60M,$43.000,2.0,1.0,16.0,72.0
+103,6,Mantin Heights,Homantin/Kingspark ,Flat B| Low Floor|  Block 1| Mantin Heights| Homantin/Kingspark ,$18.70M,$43.000,2.0,2.0,2.0,
+104,6,Ming Garden,Prince Edward Rd ,Middle Floor|  Ming Garden| Prince Edward Rd ,$15.90M,$43.000,3.0,2.0,30.0,84.0
+105,6,Yee On Court,Waterloo Road ,High Floor|  Block B| Yee On Court| Waterloo Road ,$12.00M,$43.000,3.0,2.0,42.0,85.0
+106,6,The Victoria Towers,Tsim Sha Tsui ,Flat D| Middle Floor|  Block 2| The Victoria Towers| Tsim Sha Tsui ,$15.00M,$43.000,2.0,1.0,16.0,65.0
+107,6,One Homantin,Homantin/Kingspark ,Flat G| Middle Floor|  Tower 3| One Homantin| Homantin/Kingspark ,$13.68M,$43.000,2.0,2.0,2.0,
+108,7,Manhattan Court,Kln Tong / Beacon Hill ,High Floor|  Manhattan Court| Kln Tong / Beacon Hill ,$19.80M,$43.000,3.0,2.0,43.0,82.0
+109,7,Meridian Hill,Kln Tong / Beacon Hill ,Flat D| High Floor|  Block 3| Meridian Hill| Kln Tong / Beacon Hill ,$33.00M,$43.000,3.0,2.0,8.0,77.0
+110,7,Mount Beacon,Yau Yat Chuen/Shek Kip Mei ,Flat C| High Floor|  Block 3| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,$27.50M,$43.000,3.0,2.0,13.0,74.0
+111,7,Mantin Heights,Homantin/Kingspark ,Flat F|  Block 2| Mantin Heights| Homantin/Kingspark ,$13.50M,$43.000,2.0,2.0,2.0,
+112,7,Moonlight Mansion,Prince Edward Rd ,Low Floor|  Moonlight Mansion| Prince Edward Rd ,$16.50M,$43.000,3.0,2.0,44.0,82.0
+113,7,Meridian Hill,Kln Tong / Beacon Hill ,Flat C| High Floor|  Block 3| Meridian Hill| Kln Tong / Beacon Hill ,$28.00M,$43.000,3.0,2.0,8.0,77.0
+114,7,One West Kowloon,Cheung Sha Wan ,Flat A| High Floor|  Tower 2| One West Kowloon| Cheung Sha Wan ,$18.80M,$39.000,,,5.0,74.0
+115,7,Vision Court,Prince Edward Rd ,Flat B| Middle Floor|  Vision Court| Prince Edward Rd ,$10.50M,$39.000,2.0,2.0,17.0,70.0
+116,7,St. George Apartments,Waterloo Road ,Flat C| Middle Floor|  St. George Apartments| Waterloo Road ,$22.00M,$39.000,3.0,2.0,17.0,71.0
+117,7,Celestial Heights,Celestial Heights ,Flat 16| High Floor|  Celestial Avenue 16| Phase 2| Celestial Heights| Celestial Heights ,$45.00M,$39.000,4.0,2.0,9.0,77.0
+118,7,The Masterpiece,Tsim Sha Tsui ,Flat K| Low Floor|  The Masterpiece| Tsim Sha Tsui ,$22.80M,$44.000,1.0,1.0,10.0,73.0
+119,7,Fook Hong Court,Kln Tong / Beacon Hill ,Flat C| Middle Floor|  Fook Hong Court| Kln Tong / Beacon Hill ,$8.00M,$44.000,2.0,1.0,44.0,
+120,7,Boland Court,Kln Tong / Beacon Hill ,Flat C|  Phase 2| Boland Court| Kln Tong / Beacon Hill ,$9.80M,$44.000,3.0,2.0,43.0,86.0
+121,7,Meridian Hill,Kln Tong / Beacon Hill ,Flat D|  Block 2| Meridian Hill| Kln Tong / Beacon Hill ,$41.50M,$44.000,4.0,2.0,8.0,76.0
+122,7,Carmel On The Hill,Homantin/Kingspark ,Flat C| Middle Floor|  Carmel On The Hill| Homantin/Kingspark ,$9.50M,$44.000,2.0,2.0,15.0,73.0
+123,7,Paxton,Prince Edward Rd ,Flat C|  Paxton| Prince Edward Rd ,$47.00M,$44.000,4.0,2.0,5.0,
+124,7,Mantin Heights,Homantin/Kingspark ,Flat C|  Block 5| Mantin Heights| Homantin/Kingspark ,$14.00M,$44.000,2.0,2.0,2.0,
+125,7,Ultima,Homantin/Kingspark ,High Floor|  Tower 2| Phase 2| Ultima| Homantin/Kingspark ,$138.00M,$44.000,4.0,2.0,3.0,
+126,8,Sorrento,Kowloon Station ,Flat H| Low Floor|  Block 2| Phase 2| Sorrento| Kowloon Station ,$32.00M,$44.000,3.0,1.0,15.0,75.0
+127,8,One Beacon Hill,Kln Tong / Beacon Hill ,Flat E| Middle Floor|  Block 06| Phase 2| One Beacon Hill| Kln Tong / Beacon Hill ,$31.00M,$44.000,3.0,2.0,15.0,74.0
+128,8,Fessenden Court,Kln Tong / Beacon Hill ,Flat D|  Fessenden Court| Kln Tong / Beacon Hill ,$13.00M,$44.000,3.0,2.0,43.0,84.0
+129,8,No.1 Ho Man Tin Hill,Homantin/Kingspark ,Flat C| Low Floor|  Ho Man Tin Hill Road 1| No.1 Ho Man Tin Hill| Homantin/Kingspark ,$28.00M,$44.000,3.0,2.0,16.0,77.0
+130,8,Celestial Heights,Celestial Heights ,Flat 35| High Floor|  Celestial Avenue 35| Phase 1| Celestial Heights| Celestial Heights ,$41.00M,$44.000,4.0,2.0,10.0,77.0
+131,8,One Victory,Homantin/Kingspark ,Flat B| Middle Floor|  One Victory| Homantin/Kingspark ,$9.80M,$44.000,2.0,2.0,7.0,63.0
+132,8,One Beacon Hill,Kln Tong / Beacon Hill ,Flat E| Low Floor|  Block 06| Phase 2| One Beacon Hill| Kln Tong / Beacon Hill ,$78.00M,$44.000,4.0,2.0,15.0,74.0
+133,8,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| High Floor|  Block 09| Beverly Villas| Kln Tong / Beacon Hill ,$20.80M,$44.000,3.0,2.0,38.0,93.0
+134,8,The Harbourside,Kowloon Station ,Flat C| Low Floor|  Block 3| The Harbourside| Kowloon Station ,$40.00M,$44.000,3.0,1.0,16.0,74.0
+135,8,Homantin Hillside,Hung Hom ,Flat C|  Block 1| Homantin Hillside| Hung Hom ,$11.00M,$44.000,1.0,2.0,3.0,
+136,8,Imperial Cullinan,Olympic Station ,Flat D| High Floor|  Block 3 (Imperial Seabank)| Imperial Cullinan| Olympic Station ,$32.00M,$50.000,3.0,2.0,7.0,79.0
+137,8,Wan Chai,Causeway Bay ,Flat D|  Tower 3| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,$14.00M,$29.000,1.0,,4.0,
+138,8,Metro Town,Tseung Kwan O ,Flat G| High Floor|  Tower 2| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,$9.60M,$29.000,2.0,2.0,13.0,75.0
+139,8,Ultima,Homantin/Kingspark ,Flat D|  Tower 3| Phase 2| Ultima| Homantin/Kingspark ,$58.00M,$29.000,4.0,2.0,3.0,
+140,8,Metro Town,Tseung Kwan O ,Flat B| Middle Floor|  Block 9| Phase 2 (Le Point)| Metro Town| Tseung Kwan O ,$13.00M,$29.000,3.0,2.0,11.0,75.0
+141,8,Greenfield Terrace,Homantin/Kingspark ,Flat A1| Low Floor|  Blk A| Greenfield Terrace| Homantin/Kingspark ,$12.88M,$29.500,3.0,2.0,40.0,89.0
+142,8,Metro Town,Tseung Kwan O ,Flat F| Low Floor|  Tower 1| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,$11.70M,$29.500,3.0,2.0,13.0,72.0
+143,8,Beacon Heights,Yau Yat Chuen/Shek Kip Mei ,Flat B| High Floor|  Block 04| Phase 4| Beacon Heights| Yau Yat Chuen/Shek Kip Mei ,$14.30M,$33.000,3.0,2.0,32.0,82.0
+144,9,The Arcadia,Prince Edward Rd ,Flat B| Middle Floor|  Block 1| The Arcadia| Prince Edward Rd ,$20.00M,$36.000,3.0,2.0,30.0,70.0
+145,9,The Leighton Hill,Happy Valley/East Mid Level ,Flat C| Low Floor|  Block 1| The Leighton Hill| Happy Valley/East Mid Level ,$45.00M,$36.000,3.0,2.0,17.0,76.0
+146,9,The Altitude,Happy Valley/East Mid Level ,Flat A| Middle Floor|  The Altitude| Happy Valley/East Mid Level ,$53.50M,$36.000,3.0,2.0,8.0,79.0
+147,9,Casa Bella,Western/Sheung Wan Central ,Flat A| Middle Floor|  Casa Bella| Western/Sheung Wan Central ,$22.00M,$36.000,3.0,2.0,18.0,70.0
+148,9,Jade Garden,Kln Tong / Beacon Hill ,High Floor|  27 La Salle Road| Jade Garden| Kln Tong / Beacon Hill ,$150.00M,$36.000,9.0,3.0,42.0,78.0
+149,9,Park Avenue,Olympic Station ,Flat A| Low Floor|  Block 10| Park Avenue| Olympic Station ,$14.00M,$36.000,2.0,2.0,18.0,73.0
+150,9,Peace Tower,Western Mid-Levels ,High Floor|  Peace Tower| Western Mid-Levels ,$13.00M,$36.000,3.0,2.0,39.0,
+151,9,The Broadville,Happy Valley/East Mid Level ,Flat D| High Floor|  The Broadville| Happy Valley/East Mid Level ,$43.00M,$70.000,3.0,2.0,26.0,79.0
+152,9,Fortune Gardens,Western Mid-Levels ,Flat 1| Low Floor|  Block B| Fortune Gardens| Western Mid-Levels ,$23.00M,$43.800,3.0,2.0,31.0,81.0
+153,9,Tycoon Court,Western Mid-Levels ,Flat 4| High Floor|  Block A| Phase 2| Tycoon Court| Western Mid-Levels ,$19.80M,$39.800,3.0,,25.0,75.0
+154,9,Beverly Villas,Kln Tong / Beacon Hill ,Flat D| High Floor|  Block 05| Beverly Villas| Kln Tong / Beacon Hill ,$28.00M,$39.800,3.0,2.0,38.0,93.0
+155,9,Bella Vista,Western Mid-Levels ,Flat B| High Floor|  Bella Vista| Western Mid-Levels ,$10.00M,$39.800,2.0,2.0,19.0,66.0
+156,9,Ocean Shores,Tseung Kwan O ,Flat H| High Floor|  Block 12| Phase 3| Ocean Shores| Tseung Kwan O ,$9.50M,$39.800,,,16.0,73.0
+157,9,Morengo Court,Happy Valley/East Mid Level ,Flat B| High Floor|  Morengo Court| Happy Valley/East Mid Level ,$29.80M,$39.800,3.0,2.0,43.0,90.0
+158,9,Tung Nam Mansion,Waterloo Road ,Low Floor|  Tung Nam Mans| Tung Nam Mansion| Waterloo Road ,$9.50M,$39.800,3.0,2.0,48.0,71.0
+159,9,Ventris Place,Happy Valley/East Mid Level ,Flat 5| Low Floor|  Block C| Ventris Place| Happy Valley/East Mid Level ,$69.00M,$39.800,5.0,2.0,34.0,88.0
+160,9,Beverly Court,Happy Valley/East Mid Level ,Flat B| Middle Floor|  Beverly Court| Happy Valley/East Mid Level ,$27.00M,$39.800,3.0,2.0,37.0,89.0
+161,9,Carmel On The Hill,Homantin/Kingspark ,Flat E| Middle Floor|  Carmel On The Hill| Homantin/Kingspark ,$9.50M,$39.800,2.0,2.0,15.0,75.0
+162,10,The Masterpiece,Tsim Sha Tsui ,Flat B| Middle Floor|  The Masterpiece| Tsim Sha Tsui ,$24.50M,$39.800,1.0,1.0,10.0,73.0
+163,10,Azura,Western Mid-Levels ,Flat C| Low Floor|  Azura| Western Mid-Levels ,$45.00M,$39.800,3.0,,6.0,77.0
+164,10,Ka Wah Court,Prince Edward Rd , Ka Wah Court| Prince Edward Rd ,$16.00M,$39.800,3.0,2.0,47.0,82.0
+165,10,The Cullinan,Kowloon Station ,Flat C| Middle Floor|  Star Sky| The Cullinan| Kowloon Station ,$24.80M,$41.000,2.0,1.0,12.0,75.0
+166,10,The Belcher'S,Western/Sheung Wan Central ,Flat A| High Floor|  Block 6| Phase 2| The Belcher'S| Western/Sheung Wan Central ,$25.50M,$41.000,3.0,2.0,17.0,78.0
+167,10,Celestial Heights,Celestial Heights ,Flat 28| High Floor|  Celestial Avenue 28| Phase 1| Celestial Heights| Celestial Heights ,$35.00M,$41.000,3.0,2.0,10.0,77.0
+168,10,The Sparkle,Lai Chi Kok ,Flat D| Middle Floor|  Block 2| The Sparkle| Lai Chi Kok ,$8.80M,$41.000,,,11.0,72.0
+169,10,Upper West,Tai Kok Tsui ,Flat C| Middle Floor|  Upper West| Tai Kok Tsui ,$5.98M,$17.000,1.0,2.0,3.0,73.0
+170,10,Mei Foo Sun Chuen,Mei Foo ,Flat A| High Floor|  Broadway 051| Phase III| Mei Foo Sun Chuen| Mei Foo ,$9.50M,$17.000,3.0,2.0,46.0,76.0
+171,10,Liberte,Lai Chi Kok ,Flat E| Low Floor|  Block 7| Liberte| Lai Chi Kok ,$8.90M,$17.000,,,15.0,76.0
+172,10,One West Kowloon,Cheung Sha Wan ,Flat B| High Floor|  Tower 2| One West Kowloon| Cheung Sha Wan ,$8.90M,$17.000,2.0,2.0,5.0,76.0
+173,10,Banyan Garden,Lai Chi Kok ,Flat F| High Floor|  Block 3| Phase I| Banyan Garden| Lai Chi Kok ,$9.80M,$17.000,1.0,1.0,16.0,71.0
+174,10,The Pacifica,Lai Chi Kok ,Flat F| Low Floor|  Block 7| Phase 2| The Pacifica| Lai Chi Kok ,$9.20M,$17.000,2.0,,14.0,70.0
+175,10,Villa Carlton,Yau Yat Chuen/Shek Kip Mei , Block 2| Villa Carlton| Yau Yat Chuen/Shek Kip Mei ,$18.00M,$38.000,4.0,,19.0,77.0
+176,10,Hampton Place,Olympic Station ,Flat C| High Floor|  Block 2| Hampton Place| Olympic Station ,$11.00M,$22.800,2.0,2.0,15.0,71.0
+177,10,The Cullinan,Kowloon Station ,Flat A| High Floor|  Aster Sky| The Cullinan| Kowloon Station ,$54.88M,$70.000,3.0,1.0,12.0,73.0
+178,10,Taikoo Shing,Taikoo Shing ,Flat F| High Floor|  Tung Shan Mansion| Kao Shan Terrace| Taikoo Shing| Taikoo Shing ,$15.60M,$70.000,3.0,2.0,40.0,88.0
+179,10,The Waterfront,Kowloon Station ,Flat F| Low Floor|  Block 2| Phase 1| The Waterfront| Kowloon Station ,$27.00M,$70.000,3.0,1.0,18.0,81.0
+180,11,Peninsula Heights,Kln Tong / Beacon Hill ,Flat 2| High Floor|  Blk A| Peninsula Heights| Kln Tong / Beacon Hill ,$30.00M,$70.000,3.0,2.0,19.0,78.0
+181,11,King's Hill,Western/Sheung Wan Central ,Flat E| High Floor|  King's Hill| Western/Sheung Wan Central ,$17.50M,$40.000,2.0,2.0,2.0,
+182,11,Mei Foo Sun Chuen,Mei Foo ,Flat A| High Floor|  Nassau Street 26| Phase VI| Mei Foo Sun Chuen| Mei Foo ,$15.00M,$32.800,4.0,2.0,45.0,75.0
+183,11,Boundary Crest,Kln Tong / Beacon Hill ,High Floor|  Boundary Crest| Kln Tong / Beacon Hill ,$9.00M,$32.800,2.0,2.0,41.0,68.0
+184,11,Merlin Court,Kln Tong / Beacon Hill ,Flat F|  Merlin Court| Kln Tong / Beacon Hill ,$9.32M,$32.800,2.0,2.0,44.0,75.0
+185,11,The Pacifica,Lai Chi Kok ,Flat A| High Floor|  Block 1| Phase 2| The Pacifica| Lai Chi Kok ,$12.00M,$25.500,,,14.0,73.0
+186,11,Lohas Park,Tseung Kwan O ,Flat D| Middle Floor|  Tower 1 R| Le Prestige| Lohas Park| Tseung Kwan O ,$15.00M,$28.000,4.0,2.0,9.0,75.0
+187,11,Scholars' Lodge,Kln Tong / Beacon Hill , Scholars' Lodge| Kln Tong / Beacon Hill ,$50.00M,$28.000,,,15.0,79.0
+188,11,Prince Apartments,Prince Edward Rd ,Flat 224| High Floor|  Prince Apartments| Prince Edward Rd ,$30.00M,$28.000,4.0,2.0,56.0,86.0
+189,11,The Met. Sublime,Western/Sheung Wan Central ,Flat A| Middle Floor|  The Met Sublime| The Met. Sublime| Western/Sheung Wan Central ,$9.00M,$26.000,1.0,,4.0,66.0
+190,11,Camay House,Kln Tong / Beacon Hill , Camay House| Kln Tong / Beacon Hill ,$15.80M,$26.000,3.0,2.0,61.0,
+191,11,The Merton,Western/Sheung Wan Central ,Flat C| High Floor|  Block 2| The Merton| Western/Sheung Wan Central ,$12.80M,$29.000,2.0,2.0,14.0,74.0
+192,11,Celestial Heights,Celestial Heights ,Flat 09| Low Floor|  Celestial Avenue 09| Phase 1| Celestial Heights| Celestial Heights ,$49.00M,$29.000,5.0,2.0,10.0,76.0
+193,11,Chik Tak Mansion,Stanley/Tai Tam/Shek O , Chik Tak Mansion| Stanley/Tai Tam/Shek O ,$10.00M,$29.000,1.0,,32.0,77.0
+194,11,Wan Chai,Causeway Bay ,Low Floor|  Rita House| Admiralty| Wan Chai| Causeway Bay ,$9.80M,$28.500,1.0,2.0,56.0,80.0
+195,11,Yick Fat Building,Waterloo Road ,Flat 73A| High Floor|  Yick Fat Building| Waterloo Road ,$13.50M,$28.500,3.0,2.0,54.0,80.0
+196,11,No.2 Park Road,Western Mid-Levels ,Flat B| High Floor|  Park Road 2| No.2 Park Road| Western Mid-Levels ,$29.80M,$28.500,3.0,2.0,15.0,73.0
+197,11,Tavistock,Central Mid-Levels & Peak ,Flat A| Middle Floor|  Block 2| Tavistock| Central Mid-Levels & Peak ,$75.00M,$95.000,3.0,2.0,20.0,75.0
+198,12,Edwardian Heights,Homantin/Kingspark ,Flat B| Low Floor|  Edwardian Heights ( Phase 2 )| Edwardian Heights| Homantin/Kingspark ,$15.90M,$95.000,2.0,2.0,46.0,80.0
+199,12,Kiu Hing Mansion,North Point & North Point Midlevel ,Flat N| Middle Floor|  Kiu Hing Mansion| North Point & North Point Midlevel ,$7.80M,$95.000,2.0,,53.0,77.0
+200,12,Parc Palais,Homantin/Kingspark ,Flat D| Middle Floor|  Block 2| Parc Palais| Homantin/Kingspark ,$24.00M,$95.000,3.0,2.0,15.0,75.0
+201,12,Beverly Villas,Kln Tong / Beacon Hill ,Flat C| Low Floor|  Block 10| Beverly Villas| Kln Tong / Beacon Hill ,$25.00M,$95.000,4.0,2.0,38.0,93.0
+202,12,The Astoria,Prince Edward Rd ,Flat D| High Floor|  Block 2| The Astoria| Prince Edward Rd ,$34.00M,$95.000,3.0,2.0,28.0,80.0
+203,12,9 Wun Sha Street,Happy Valley/East Mid Level , Wun Sha Street 9| 9 Wun Sha Street| Happy Valley/East Mid Level ,$11.50M,$23.500,3.0,1.0,59.0,
+204,12,Perth Garden,Homantin/Kingspark ,Flat E| Middle Floor|  Ilford Court| Perth Garden| Homantin/Kingspark ,$19.80M,$23.500,3.0,2.0,39.0,88.0
+205,12,Fortune Well Height,Prince Edward Rd ,Low Floor|  Fortune Well Height| Prince Edward Rd ,$35.00M,$23.500,2.0,2.0,25.0,
+206,12,Fortune Well Height,Prince Edward Rd ,Low Floor|  Fortune Well Height| Prince Edward Rd ,$35.00M,$23.500,2.0,2.0,25.0,
+207,12,Mantin Heights,Homantin/Kingspark ,Flat F|  Block 2| Mantin Heights| Homantin/Kingspark ,$16.00M,$23.500,2.0,2.0,2.0,
+208,12,Pacific View,Stanley/Tai Tam/Shek O ,Flat B| Low Floor|  Block 4| Pacific View| Stanley/Tai Tam/Shek O ,$35.80M,$23.500,3.0,2.0,28.0,80.0
+209,12,87 Wong Nai Chung Road,Happy Valley/East Mid Level ,Low Floor|  87 Wong Nai Chung Road| Happy Valley/East Mid Level ,$27.00M,$45.000,,,62.0,76.0
+210,12,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,$9.50M,$45.000,1.0,2.0,3.0,
+211,12,Ultima,Homantin/Kingspark ,Flat D|  Tower 2| Phase 2| Ultima| Homantin/Kingspark ,$48.00M,$45.000,4.0,2.0,3.0,
+212,12,Pacific View,Stanley/Tai Tam/Shek O ,Flat A| Low Floor|  Block 5| Pacific View| Stanley/Tai Tam/Shek O ,$23.80M,$45.000,2.0,2.0,28.0,81.0
+213,12,South Horizons,Ap Lei Chau ,Flat D| Middle Floor|  Block 03| Phase 1| South Horizons| Ap Lei Chau ,$15.00M,$31.000,4.0,2.0,27.0,80.0
+214,12,Perth Apartments,Homantin/Kingspark ,Flat A| High Floor|  Blk B1| Perth Apartments| Homantin/Kingspark ,$23.00M,$31.000,3.0,2.0,44.0,82.0
+215,12,Jones Hive,Happy Valley/East Mid Level ,Flat B|  Jones Hive| Happy Valley/East Mid Level ,$15.98M,$31.000,3.0,,2.0,
+216,13,Mantin Heights,Homantin/Kingspark ,Flat G|  Block 3| Mantin Heights| Homantin/Kingspark ,$28.00M,$31.000,3.0,2.0,2.0,
+217,13,The Leighton Hill,Happy Valley/East Mid Level ,Flat B| Middle Floor|  Block 9| The Leighton Hill| Happy Valley/East Mid Level ,$41.00M,$31.000,2.0,2.0,17.0,77.0
+218,13,Pearl Court,Kln Tong / Beacon Hill , Pearl Court| Kln Tong / Beacon Hill ,$19.00M,$31.000,3.0,2.0,43.0,
+219,13,One Homantin,Homantin/Kingspark ,Flat B|  Tower 3| One Homantin| Homantin/Kingspark ,$15.55M,$31.000,2.0,2.0,2.0,
+220,13,Cheerbond Court,Homantin/Kingspark ,Low Floor|  Cheerbond Court| Homantin/Kingspark ,$18.30M,$31.000,3.0,2.0,27.0,76.0
+221,13,Ultima,Homantin/Kingspark ,Flat B|  Tower 5| Phase 2| Ultima| Homantin/Kingspark ,$64.00M,$31.000,4.0,2.0,3.0,
+222,13,Shuk Yuen Building,Happy Valley/East Mid Level ,Low Floor|  Block E| Shuk Yuen Building| Happy Valley/East Mid Level ,$34.00M,$68.000,3.0,2.0,60.0,87.0
+223,13,Cheong Kat Mansion,Western/Sheung Wan Central ,Flat C| Low Floor|  Cheong Kat Mansion| Western/Sheung Wan Central ,$5.30M,$68.000,1.0,,38.0,
+224,13,One Beacon Hill,Kln Tong / Beacon Hill ,Low Floor|  Block 15| Phase 4| One Beacon Hill| Kln Tong / Beacon Hill ,$48.00M,$68.000,4.0,2.0,15.0,75.0
+225,13,1 Robinson Road,Western Mid-Levels ,Middle Floor|  1 Robinson Road| Western Mid-Levels ,$76.90M,$110.000,4.0,3.0,39.0,77.0
+226,13,Gramercy,Western Mid-Levels ,Flat A| Middle Floor|  Gramercy| Western Mid-Levels ,$24.80M,$55.000,2.0,,6.0,71.0
+227,13,Lomond Garden Mansion,Prince Edward Rd , Lomond Garden Mansion| Prince Edward Rd ,$22.00M,$55.000,4.0,2.0,55.0,83.0
+228,13,Manhattan Heights,Western/Sheung Wan Central ,Flat J| Middle Floor|  Manhattan Heights| Western/Sheung Wan Central ,$11.50M,$28.000,1.0,,19.0,74.0
+229,13,Lung Tak Court,Stanley/Tai Tam/Shek O ,Flat 27| Low Floor|  Block A| Lung Tak Court| Stanley/Tai Tam/Shek O ,$10.00M,$19.500,2.0,,18.0,75.0
+230,13,Sunlight Garden,Homantin/Kingspark ,Flat B| High Floor|  Sunlight Gdn| Sunlight Garden| Homantin/Kingspark ,$20.50M,$19.500,3.0,2.0,54.0,85.0
+231,13,The Regalia,Homantin/Kingspark ,Flat A| Low Floor|  Blk 3| The Regalia| Homantin/Kingspark ,$19.00M,$19.500,3.0,2.0,23.0,80.0
+232,13,Pacific View,Stanley/Tai Tam/Shek O ,Flat A| High Floor|  Block 5| Pacific View| Stanley/Tai Tam/Shek O ,$30.00M,$50.000,2.0,2.0,28.0,81.0
+233,13,Residence Bel-Air,Pokfulam/Residence ,Flat B|  Tower 8| Phase 4 (Bel-Air On The Peak)| Residence Bel-Air| Pokfulam/Residence ,$24.00M,$39.000,2.0,,13.0,81.0
+234,14,Perth Apartments,Homantin/Kingspark ,Flat D| Low Floor|  Blk B3| Perth Apartments| Homantin/Kingspark ,$26.00M,$39.000,3.0,2.0,44.0,80.0
+235,14,8 Lasalle,Prince Edward Rd ,Flat B|  8 Lasalle| Prince Edward Rd ,$28.50M,$39.000,,,5.0,
+236,14,Gramercy,Western Mid-Levels ,Flat A| Middle Floor|  Gramercy| Western Mid-Levels ,$30.00M,$55.000,2.0,1.0,6.0,71.0
+237,14,The Summa,Western Mid-Levels ,Flat A|  Block 1| The Summa| Western Mid-Levels ,$50.00M,$55.000,3.0,2.0,5.0,
+238,14,Kelletteria,Central Mid-Levels & Peak , 71 Mount Kellett Road (House)| Kelletteria| Central Mid-Levels & Peak ,$260.00M,$220.000,4.0,2.0,16.0,76.0
+239,14,Padek Palace,Prince Edward Rd ,Flat D| High Floor|  Padek Palace| Prince Edward Rd ,$30.00M,$220.000,4.0,2.0,15.0,75.0
+240,14,Padek Palace,Prince Edward Rd ,Flat C| High Floor|  Padek Palace| Prince Edward Rd ,$35.00M,$220.000,4.0,2.0,15.0,75.0
+241,14,One Victory,Homantin/Kingspark ,Flat B| High Floor|  One Victory| Homantin/Kingspark ,$9.20M,$220.000,2.0,2.0,7.0,63.0
+242,14,Mount Beacon,Yau Yat Chuen/Shek Kip Mei ,Flat D| Low Floor|  Block 2| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,$26.00M,$220.000,3.0,2.0,13.0,74.0
+243,14,Celestial Heights,Celestial Heights ,Flat 35| High Floor|  Celestial Avenue 35| Phase 1| Celestial Heights| Celestial Heights ,$47.00M,$220.000,4.0,2.0,10.0,77.0
+244,14,Broadway Towers,Kln Tong / Beacon Hill ,Flat B1| High Floor|  Broadway Towers| Kln Tong / Beacon Hill ,$16.00M,$220.000,3.0,2.0,46.0,82.0
+245,14,Sunderland Estate,Kln Tong / Beacon Hill , House -| Sunderland Estate| Kln Tong / Beacon Hill ,$55.00M,$220.000,4.0,2.0,36.0,97.0
+246,14,Ellery Terrace,Homantin/Kingspark ,Flat D| Middle Floor|  Ellery Terr| Ellery Terrace| Homantin/Kingspark ,$19.50M,$220.000,3.0,2.0,19.0,76.0
+247,14,Kwun Hei Court,Homantin/Kingspark ,Flat 13| High Floor|  Kwun Hei Court| Homantin/Kingspark ,$8.68M(Prem. Not Paid),$220.000,3.0,2.0,19.0,74.0
+248,14,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat D|  Block 01| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,$37.00M,$220.000,3.0,2.0,26.0,40.0
+249,14,301-311 Pak Kong,Sai Kung , 301-311 Pak Kong (House)| 301-311 Pak Kong| Sai Kung ,$28.75M,$220.000,,,9.0,
+250,14,Kent Court,Kln Tong / Beacon Hill ,Middle Floor|  Block 4| Kent Court| Kln Tong / Beacon Hill ,$25.00M,$220.000,4.0,2.0,34.0,91.0
+251,14,Hilltop Gardens,Wong Tai Sin ,Flat A| Low Floor|  Block 1| Hilltop Gardens| Wong Tai Sin ,$7.80M,$18.000,3.0,2.0,29.0,73.0
+252,15,Prince'S Heights,Prince Edward Rd ,Flat B| Low Floor|  Block 2| Prince'S Heights| Prince Edward Rd ,$20.10M,$18.000,3.0,3.0,45.0,81.0
+253,15,Latin Court,Prince Edward Rd ,Flat C| Middle Floor|  Latin Court| Prince Edward Rd ,$15.80M,$18.000,3.0,2.0,46.0,80.0
+254,15,80 Robinson Road,Western Mid-Levels ,Flat B| High Floor|  Block 1| 80 Robinson Road| Western Mid-Levels ,$150.00M,$180.000,4.0,3.0,17.0,69.0
+255,15,Grand Austin,Tsim Sha Tsui ,Flat C|  Tower 3 - T3| Grand Austin| Tsim Sha Tsui ,$68.80M,$180.000,4.0,1.0,4.0,
+256,15,Prince Apartments,Prince Edward Rd ,Middle Floor|  Prince Apartments| Prince Edward Rd ,$17.90M,$180.000,3.0,2.0,57.0,81.0
+257,15,Che Keng Tuk,Sai Kung , Che Keng Tuk| Sai Kung ,$27.00M,$180.000,,,,
+258,15,Prince Edward Towers,Prince Edward Rd ,Flat C| High Floor|  Prince Edward Towers| Prince Edward Rd ,$19.30M,$180.000,3.0,2.0,46.0,81.0
+259,15,Fung Wah Court,Kln Tong / Beacon Hill ,Flat A| Low Floor|  Fung Wah Court| Kln Tong / Beacon Hill ,$19.80M,$180.000,3.0,2.0,47.0,82.0
+260,15,Costa Bello,Sai Kung , Costa Bello| Sai Kung ,$21.30M,$180.000,,,16.0,72.0
+261,15,Mount Beacon,Yau Yat Chuen/Shek Kip Mei ,Flat C| Middle Floor|  Block 6| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,$36.68M,$180.000,3.0,2.0,13.0,76.0
+262,15,Lung Man Building,Homantin/Kingspark ,Flat F| Low Floor|  Lung Man Bldg| Lung Man Building| Homantin/Kingspark ,$10.98M,$180.000,2.0,2.0,56.0,77.0
+263,15,The Giverny,Sai Kung , Hiram's Highway (House)| The Giverny| Sai Kung ,$38.00M,$180.000,,,14.0,64.0
+264,15,Solemar Villas,Sai Kung , 15 Silver Cape Road (House)| Solemar Villas| Sai Kung ,$71.76M,$180.000,,,42.0,82.0
+265,15,Beverly Villas,Kln Tong / Beacon Hill ,Flat D| Low Floor|  Block 02| Beverly Villas| Kln Tong / Beacon Hill ,$26.00M,$180.000,3.0,2.0,38.0,93.0
+266,15,Silver Star Court,Happy Valley/East Mid Level ,Flat A| High Floor|  Silver Star Court| Happy Valley/East Mid Level ,$24.00M,$180.000,3.0,2.0,37.0,85.0
+267,15,Serenade,Happy Valley/East Mid Level ,Flat A| High Floor|  Tower 2| Serenade| Happy Valley/East Mid Level ,$78.00M,$180.000,4.0,2.0,9.0,76.0
+268,15,Grandview Mansion,Happy Valley/East Mid Level ,Flat 5| Low Floor|  Grandview Mansions| Grandview Mansion| Happy Valley/East Mid Level ,$26.88M,$180.000,3.0,2.0,64.0,91.0
+269,15,Wing On Court,Homantin/Kingspark ,Flat A| Middle Floor|  Wing On Court| Homantin/Kingspark ,$35.00M,$180.000,3.0,2.0,42.0,92.0
+270,16,Homantin Hillside,Hung Hom ,Flat A| High Floor|  Block 2| Homantin Hillside| Hung Hom ,$46.88M,$180.000,4.0,2.0,3.0,
+271,16,Goldwin Heights,Western Mid-Levels ,Flat A| Middle Floor|  Goldwin Heights| Western Mid-Levels ,$18.30M,$180.000,3.0,2.0,25.0,76.0
+272,16,Villa Carlton,Yau Yat Chuen/Shek Kip Mei , Block 8| Villa Carlton| Yau Yat Chuen/Shek Kip Mei ,$18.50M,$180.000,3.0,2.0,19.0,77.0
+273,16,Robinson Place,Western Mid-Levels ,Flat A| Low Floor|  Block 1| Robinson Place| Western Mid-Levels ,$25.00M,$48.000,2.0,2.0,24.0,82.0
+274,16,Laguna Verde,Hung Hom/Whampoa ,Flat B| High Floor|  Tower 23| Ocean Vista| Laguna Verde| Hung Hom/Whampoa ,$25.00M,$48.000,3.0,2.0,17.0,75.0
+275,16,Eltanin．Square Mile,Tai Kok Tsui ,Flat A| Middle Floor|  Block 2| Eltanin．Square Mile| Tai Kok Tsui ,$9.30M,$48.000,2.0,,2.0,
+276,16,One Silversea,Olympic Station ,Flat A| High Floor|  Block 6| One Silversea| Olympic Station ,$33.00M,$48.000,3.0,2.0,13.0,79.0
+277,16,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,$9.68M,$48.000,1.0,2.0,3.0,
+278,16,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat F| High Floor|  Block 16| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,$28.00M,$48.000,2.0,2.0,26.0,74.0
+279,16,The Riverpark,Shatin ,Flat E| High Floor|  Block 5| The Riverpark| Shatin ,$33.00M,$48.000,3.0,1.0,6.0,76.0
+280,16,Ultima,Homantin/Kingspark ,Flat A| High Floor|  Block 6| Ultima| Homantin/Kingspark ,$98.00M,$48.000,4.0,2.0,3.0,
+281,16,Dunbar Place,Homantin/Kingspark ,Flat A| High Floor|  Dunbar Place| Homantin/Kingspark ,$85.00M,$48.000,4.0,2.0,5.0,
+282,16,Village Tower,Happy Valley/East Mid Level ,Flat B| Low Floor|  Village Tower| Happy Valley/East Mid Level ,$16.50M,$48.000,4.0,2.0,47.0,73.0
+283,16,Celestial Heights,Celestial Heights ,Flat 27| Middle Floor|  Celestial Avenue 27| Phase 1| Celestial Heights| Celestial Heights ,$40.00M,$48.000,4.0,2.0,10.0,76.0
+284,16,Arezzo,Western Mid-Levels ,Flat A|  Arezzo| Western Mid-Levels ,$37.00M,$48.000,3.0,,4.0,
+285,16,The Long Beach,Olympic Station ,Flat B| High Floor|  Block 6| The Long Beach| Olympic Station ,$21.00M,$48.000,,,14.0,75.0
+286,16,Fu Tao Building,Argyle Street ,Flat D| High Floor|  Fu Tao Building| Argyle Street ,$16.00M,$48.000,3.0,2.0,40.0,83.0
+287,16,The Regalia,Homantin/Kingspark ,Flat C| Low Floor|  Blk 3| The Regalia| Homantin/Kingspark ,$23.30M,$48.000,3.0,2.0,23.0,80.0
+288,17,Homantin Hillside,Hung Hom ,Flat A| High Floor|  Block 2| Homantin Hillside| Hung Hom ,$46.88M,$48.000,4.0,2.0,3.0,
+289,17,Goldwin Heights,Western Mid-Levels ,Flat A| Middle Floor|  Goldwin Heights| Western Mid-Levels ,$18.30M,$48.000,3.0,2.0,25.0,76.0
+290,17,Villa Carlton,Yau Yat Chuen/Shek Kip Mei , Block 8| Villa Carlton| Yau Yat Chuen/Shek Kip Mei ,$18.50M,$48.000,3.0,2.0,19.0,77.0
+291,17,Robinson Place,Western Mid-Levels ,Flat A| Low Floor|  Block 1| Robinson Place| Western Mid-Levels ,$25.00M,$48.000,2.0,2.0,24.0,82.0
+292,17,Laguna Verde,Hung Hom/Whampoa ,Flat B| High Floor|  Tower 23| Ocean Vista| Laguna Verde| Hung Hom/Whampoa ,$25.00M,$48.000,3.0,2.0,17.0,75.0
+293,17,Eltanin．Square Mile,Tai Kok Tsui ,Flat A| Middle Floor|  Block 2| Eltanin．Square Mile| Tai Kok Tsui ,$9.30M,$48.000,2.0,,2.0,
+294,17,One Silversea,Olympic Station ,Flat A| High Floor|  Block 6| One Silversea| Olympic Station ,$33.00M,$48.000,3.0,2.0,13.0,79.0
+295,17,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,$9.68M,$48.000,1.0,2.0,3.0,
+296,17,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat F| High Floor|  Block 16| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,$28.00M,$48.000,2.0,2.0,26.0,74.0
+297,17,The Riverpark,Shatin ,Flat E| High Floor|  Block 5| The Riverpark| Shatin ,$33.00M,$48.000,3.0,1.0,6.0,76.0
+298,17,Ultima,Homantin/Kingspark ,Flat A| High Floor|  Block 6| Ultima| Homantin/Kingspark ,$98.00M,$48.000,4.0,2.0,3.0,
+299,17,Dunbar Place,Homantin/Kingspark ,Flat A| High Floor|  Dunbar Place| Homantin/Kingspark ,$85.00M,$48.000,4.0,2.0,5.0,
+300,17,Village Tower,Happy Valley/East Mid Level ,Flat B| Low Floor|  Village Tower| Happy Valley/East Mid Level ,$16.50M,$48.000,4.0,2.0,47.0,73.0
+301,17,Celestial Heights,Celestial Heights ,Flat 27| Middle Floor|  Celestial Avenue 27| Phase 1| Celestial Heights| Celestial Heights ,$40.00M,$48.000,4.0,2.0,10.0,76.0
+302,17,Arezzo,Western Mid-Levels ,Flat A|  Arezzo| Western Mid-Levels ,$37.00M,$48.000,3.0,,4.0,
+303,17,The Long Beach,Olympic Station ,Flat B| High Floor|  Block 6| The Long Beach| Olympic Station ,$21.00M,$48.000,,,14.0,75.0
+304,17,Fu Tao Building,Argyle Street ,Flat D| High Floor|  Fu Tao Building| Argyle Street ,$16.00M,$48.000,3.0,2.0,40.0,83.0
+305,17,The Regalia,Homantin/Kingspark ,Flat C| Low Floor|  Blk 3| The Regalia| Homantin/Kingspark ,$23.30M,$48.000,3.0,2.0,23.0,80.0
+306,18,Mount Beacon,Yau Yat Chuen/Shek Kip Mei ,Flat D| Low Floor|  Block 6| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,$36.80M,$48.000,4.0,2.0,13.0,76.0
+307,18,Mount Beacon,Yau Yat Chuen/Shek Kip Mei , 20 Cornwall Street (House)| Mount Beacon| Yau Yat Chuen/Shek Kip Mei ,$300.00M,$48.000,,,13.0,71.0
+308,18,3-3A Grampian Road,Kln Tong / Beacon Hill ,Low Floor|  3 Grampian Road| 3-3A Grampian Road| Kln Tong / Beacon Hill ,$12.36M,$48.000,3.0,2.0,61.0,71.0
+309,18,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  The Morrison| Admiralty| Wan Chai| Causeway Bay ,$9.50M,$48.000,2.0,2.0,11.0,65.0
+310,18,Kings Court,Western Mid-Levels ,High Floor|  King's Court| Kings Court| Western Mid-Levels ,$27.50M,$48.000,3.0,2.0,43.0,71.0
+311,18,Park Central,Tseung Kwan O ,Flat D| High Floor|  Block 01| Phase 2| Park Central| Tseung Kwan O ,$8.80M,$18.000,,,16.0,75.0
+312,18,Residence Oasis,Tseung Kwan O ,Flat D| High Floor|  Block 7| Residence Oasis| Tseung Kwan O ,$9.20M,$18.000,,,14.0,75.0
+313,18,Tak Bo Garden,Amoy/Kowloon Bay ,Flat H3| High Floor|  Block H| Tak Bo Garden| Amoy/Kowloon Bay ,$5.20M,$18.000,,,34.0,71.0
+314,18,Verbena Heights,Tseung Kwan O ,Flat E| Low Floor|  Block 6| Verbena Heights| Tseung Kwan O ,$7.30M,$18.000,,,21.0,
+315,18,Corinthia By The Sea,Tseung Kwan O ,Flat F|  Block 8| Corinthia By The Sea| Tseung Kwan O ,$7.20M,$18.000,,,3.0,
+316,18,Taikoo Shing,Taikoo Shing ,Flat H| Low Floor|  Yee Shan Mansion| Kao Shan Terrace| Taikoo Shing| Taikoo Shing ,$11.50M,$24.800,2.0,2.0,40.0,86.0
+317,18,The Giverny,Sai Kung ,Flat 081|  Hiram'S Highway (House)| The Giverny| Sai Kung ,$30.50M,$24.800,3.0,2.0,14.0,65.0
+318,18,Whampoa Garden,Hung Hom/Whampoa ,Flat G| Low Floor|  Block 07| Site 5| Whampoa Garden| Hung Hom/Whampoa ,$12.50M,$24.800,4.0,2.0,31.0,86.0
+319,18,Mandarin Garden,Homantin/Kingspark ,Flat C| Low Floor|  Mandarin Gdn| Mandarin Garden| Homantin/Kingspark ,$12.00M,$24.800,3.0,2.0,53.0,68.0
+320,18,The Pacifica,Lai Chi Kok ,Flat C| Low Floor|  Block 1| Phase 2| The Pacifica| Lai Chi Kok ,$13.00M,$24.800,3.0,2.0,14.0,71.0
+321,18,Manhattan Hill,Mei Foo ,Flat F| Middle Floor|  Block 3| Manhattan Hill| Mei Foo ,$12.50M,$24.800,,,12.0,74.0
+322,18,Alice Court,Kln Tong / Beacon Hill ,Flat A|  Block A| Alice Court| Kln Tong / Beacon Hill ,$18.00M,$24.800,2.0,2.0,47.0,79.0
+323,18,Centrepoint,Western/Sheung Wan Central ,Flat C| High Floor|  Centrepoint| Western/Sheung Wan Central ,$23.00M,$24.800,2.0,2.0,7.0,70.0
+324,19,One Lasalle,Kln Tong / Beacon Hill , One Lasalle| Kln Tong / Beacon Hill ,$80.00M,$150.000,4.0,2.0,10.0,73.0
+325,19,Celestial Heights,Celestial Heights ,Flat 15| Low Floor|  Celestial Avenue 15| Phase 2| Celestial Heights| Celestial Heights ,$33.00M,$60.000,4.0,2.0,9.0,77.0
+326,19,The Long Beach,Olympic Station ,Flat B| High Floor|  Block 6| The Long Beach| Olympic Station ,$20.80M,$60.000,,,14.0,75.0
+327,19,Laguna Verde,Hung Hom/Whampoa ,Flat A| Low Floor|  Tower 15| Costal Del Sol| Laguna Verde| Hung Hom/Whampoa ,$47.60M,$60.000,5.0,2.0,19.0,80.0
+328,19,Hung On Building,North Point & North Point Midlevel ,Flat D| Middle Floor|  Hung On Building| North Point & North Point Midlevel ,$13.80M,$60.000,3.0,,47.0,77.0
+329,19,One Victory,Homantin/Kingspark ,Flat B| Middle Floor|  One Victory| Homantin/Kingspark ,$9.00M,$60.000,2.0,2.0,7.0,63.0
+330,19,The Pacifica,Lai Chi Kok ,Flat F| High Floor|  Block 7| Phase 2| The Pacifica| Lai Chi Kok ,$9.00M,$60.000,,,14.0,70.0
+331,19,Cullinan West,Sham Shui Po ,Flat B| High Floor|  Tower 2B| Phase 2A| Cullinan West| Sham Shui Po ,$16.80M,$60.000,3.0,2.0,1.0,
+332,19,Heya Star,Cheung Sha Wan ,Flat B| High Floor|  Block 2| Heya Star| Cheung Sha Wan ,$8.28M,$60.000,1.0,,3.0,
+333,19,Sorrento,Kowloon Station ,Flat E| High Floor|  Block 6| Phase 1| Sorrento| Kowloon Station ,$33.60M,$60.000,3.0,1.0,16.0,76.0
+334,19,Skypark,Mongkok ,Flat B1| Middle Floor|  Skypark| Mongkok ,$11.00M,$60.000,1.0,,2.0,
+335,19,Boland Court,Kln Tong / Beacon Hill ,Flat F|  Phase 2| Boland Court| Kln Tong / Beacon Hill ,$22.00M,$60.000,3.0,2.0,43.0,91.0
+336,19,The Pacifica,Lai Chi Kok ,Flat C| Middle Floor|  Block 1| Phase 2| The Pacifica| Lai Chi Kok ,$11.90M,$60.000,,,14.0,71.0
+337,19,Banyan Garden,Lai Chi Kok ,Flat B| High Floor|  Block 6| Phase III| Banyan Garden| Lai Chi Kok ,$8.80M,$60.000,2.0,,14.0,75.0
+338,19,Peak Garden Court,Yau Yat Chuen/Shek Kip Mei ,Middle Floor|  Peak Garden Court| Yau Yat Chuen/Shek Kip Mei ,$14.00M,$60.000,2.0,2.0,23.0,78.0
+339,19,Liberte,Lai Chi Kok ,Flat E| Low Floor|  Block 2| Liberte| Lai Chi Kok ,$9.60M,$60.000,2.0,2.0,15.0,78.0
+340,19,The Austin,Jordan ,Flat B| Low Floor|  Tower 3 - T3A| The Austin| Jordan ,$11.00M,$60.000,1.0,1.0,4.0,
+341,19,The Long Beach,Olympic Station ,Flat D| Low Floor|  Block 2| The Long Beach| Olympic Station ,$11.00M,$60.000,2.0,1.0,14.0,75.0
+342,20,Banyan Garden,Lai Chi Kok ,Flat D| High Floor|  Block 1| Phase I| Banyan Garden| Lai Chi Kok ,$8.30M,$60.000,2.0,2.0,16.0,73.0
+343,20,The Long Beach,Olympic Station ,Flat B| High Floor|  Block 6| The Long Beach| Olympic Station ,$19.00M,$60.000,3.0,1.0,14.0,75.0
+344,20,East Point City,Tseung Kwan O ,Flat F| Middle Floor|  Block 5| East Point City| Tseung Kwan O ,$7.70M,$60.000,2.0,2.0,22.0,79.0
+345,20,The Arch,Kowloon Station ,Flat E| Low Floor|  Tower 2 (Star Tower)| The Arch| Kowloon Station ,$22.00M,$60.000,2.0,1.0,13.0,74.0
+346,20,Harbour Green,Olympic Station ,Flat E| Middle Floor|  Block 1| Harbour Green| Olympic Station ,$24.00M,$60.000,3.0,2.0,12.0,77.0
+347,20,Lime Stardom,Mongkok ,Flat E|  Lime Stardom| Mongkok ,$30.00M,$60.000,,,7.0,77.0
+348,20,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 3 - T3| Grand Austin| Tsim Sha Tsui ,$40.00M,$60.000,3.0,1.0,4.0,
+349,20,Park Summit,Tai Kok Tsui ,Flat E| Middle Floor|  Block 1| Park Summit| Tai Kok Tsui ,$7.00M,$60.000,1.0,2.0,6.0,77.0
+350,20,Dragon Garden,Happy Valley/East Mid Level ,Flat D| Middle Floor|  Dragon Garden| Happy Valley/East Mid Level ,$45.00M,$60.000,3.0,1.0,42.0,91.0
+351,20,One Silversea,Olympic Station ,High Floor|  Block 5| One Silversea| Olympic Station ,$72.30M,$60.000,,,13.0,78.0
+352,20,Twin Peaks,Tseung Kwan O ,Flat D| High Floor|  Tower 1| Twin Peaks| Tseung Kwan O ,$7.00M,$60.000,,,3.0,
+353,20,Telford Gardens,Amoy/Kowloon Bay ,Flat 12| Middle Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,$8.00M,$60.000,2.0,2.0,37.0,87.0
+354,20,Eltanin．Square Mile,Tai Kok Tsui ,Flat H| Middle Floor|  Block 2| Eltanin．Square Mile| Tai Kok Tsui ,$5.98M,$60.000,1.0,2.0,2.0,
+355,20,Mandarin Court,Argyle Street ,Flat 126A| Low Floor|  Block 5| Mandarin Court| Argyle Street ,$19.80M,$60.000,3.0,2.0,56.0,89.0
+356,20,Kornhill,Quarry Bay ,Flat 11| Low Floor|  Block C| Kornhill| Quarry Bay ,$10.00M,$60.000,2.0,2.0,33.0,82.0
+357,20,Wan Chai,Causeway Bay ,Flat G| High Floor|  One Wanchai| Admiralty| Wan Chai| Causeway Bay ,$24.30M,$60.000,3.0,2.0,6.0,73.0
+358,20,The Sparkle,Lai Chi Kok ,Flat E| Middle Floor|  Block 2| The Sparkle| Lai Chi Kok ,$9.28M,$60.000,,,11.0,75.0
+359,20,Royal Peninsula,Hung Hom/Whampoa ,Flat B| Low Floor|  Block 1| Royal Peninsula| Hung Hom/Whampoa ,$20.00M,$60.000,4.0,2.0,18.0,76.0
+360,21,The Pacifica,Lai Chi Kok ,Flat F| Low Floor|  Block 2| Phase 1| The Pacifica| Lai Chi Kok ,$8.80M,$60.000,,,14.0,70.0
+361,21,Metro City,Tseung Kwan O ,Flat C| Low Floor|  Block 03| Phase 1| Metro City| Tseung Kwan O ,$8.38M,$60.000,2.0,2.0,22.0,71.0
+362,21,Nan Fung Plaza,Tseung Kwan O ,Flat A| High Floor|  Block 6| Nan Fung Plaza| Tseung Kwan O ,$9.90M,$60.000,3.0,2.0,20.0,75.0
+363,21,Hin Ming Court,Tseung Kwan O ,Flat 13| Middle Floor|  Hin Ming Court| Tseung Kwan O ,$5.75M(Prem. Not Paid),$60.000,,,23.0,
+364,21,King Lai Court,Wong Tai Sin ,Flat 7| Middle Floor|  Block B| King Lai Court| Wong Tai Sin ,$8.60M(Prem. Paid),$60.000,3.0,2.0,29.0,78.0
+365,21,South Horizons,Ap Lei Chau ,Flat A| Low Floor|  Block 09| Phase 2| South Horizons| Ap Lei Chau ,$15.00M,$60.000,3.0,2.0,26.0,79.0
+366,21,Tim Po Court,Western Mid-Levels ,Middle Floor|  Block 43| Phase 2| Tim Po Court| Western Mid-Levels ,$11.25M,$60.000,3.0,2.0,25.0,61.0
+367,21,Po Lam Estate,Tseung Kwan O ,Flat 2| Middle Floor|  Po Ning House| Po Lam Estate| Tseung Kwan O ,$2.48M(Prem. Not Paid),$60.000,,,31.0,
+368,21,Chu Kee Building,North Point & North Point Midlevel ,Flat C| Middle Floor|  Chu Kee Building| North Point & North Point Midlevel ,$5.80M,$60.000,1.0,,45.0,
+369,21,Harbour Green,Olympic Station ,Flat D| Low Floor|  Block 5| Harbour Green| Olympic Station ,$11.30M,$60.000,,,12.0,77.0
+370,21,Shan Kwong Towers,Happy Valley/East Mid Level ,Flat H| Middle Floor|  Shan Kwong Towers| Happy Valley/East Mid Level ,$13.20M,$32.000,2.0,2.0,43.0,82.0
+371,21,Mei Foo Sun Chuen,Mei Foo ,Flat B| Middle Floor|  Broadway 117| Phase IV| Mei Foo Sun Chuen| Mei Foo ,$7.80M,$32.000,,,45.0,75.0
+372,21,Southern Lodge,Cheung Sha Wan ,Flat B| High Floor|  Southern Lodge| Cheung Sha Wan ,$11.30M,$27.000,3.0,,11.0,66.0
+373,21,Whampoa Garden,Hung Hom/Whampoa ,Flat A| Middle Floor|  Block 06| Site 3| Whampoa Garden| Hung Hom/Whampoa ,$12.28M,$27.000,4.0,2.0,32.0,88.0
+374,21,The Victoria Towers,Tsim Sha Tsui ,Flat C| Middle Floor|  Block 3| The Victoria Towers| Tsim Sha Tsui ,$25.00M,$39.000,2.0,1.0,16.0,72.0
+375,21,Sea And Sky Court,Stanley/Tai Tam/Shek O , Sea And Sky Court| Stanley/Tai Tam/Shek O ,$30.00M,$39.000,3.0,2.0,53.0,86.0
+376,21,Grand Court,Happy Valley/East Mid Level ,Flat B| Low Floor|  Grand Court| Happy Valley/East Mid Level ,$28.00M,$73.000,3.0,2.0,37.0,52.0
+377,21,The Victoria Towers,Tsim Sha Tsui ,Flat E| Middle Floor|  Block 3| The Victoria Towers| Tsim Sha Tsui ,$32.00M,$73.000,3.0,1.0,16.0,73.0
+378,22,Ocean Shores,Tseung Kwan O ,Flat E| Low Floor|  Block 06| Phase 1| Ocean Shores| Tseung Kwan O ,$9.00M,$73.000,2.0,2.0,18.0,74.0
+379,22,South Horizons,Ap Lei Chau ,Flat D| High Floor|  Block 09| Phase 2| South Horizons| Ap Lei Chau ,$13.80M,$73.000,3.0,2.0,26.0,79.0
+380,22,Savannah,Tseung Kwan O ,Flat F|  Block 2A| Savannah| Tseung Kwan O ,$7.00M,$73.000,,,2.0,
+381,22,East Point City,Tseung Kwan O ,Flat C| High Floor|  Block 6| East Point City| Tseung Kwan O ,$7.80M,$73.000,2.0,2.0,22.0,79.0
+382,22,Tycoon Court,Western Mid-Levels ,Flat 1| High Floor|  Block A| Phase 2| Tycoon Court| Western Mid-Levels ,$21.50M,$37.000,2.0,,25.0,75.0
+383,22,Mei Foo Sun Chuen,Mei Foo ,Flat B| Low Floor|  Broadway 057| Phase III| Mei Foo Sun Chuen| Mei Foo ,$7.68M,$37.000,,,46.0,75.0
+384,22,Wan Chai,Causeway Bay ,Flat 8| Middle Floor|  Wah To Building| Admiralty| Wan Chai| Causeway Bay ,$5.92M,$37.000,,,50.0,80.0
+385,22,La Cite Noble,Tseung Kwan O ,Flat G| Middle Floor|  Block 3| La Cite Noble| Tseung Kwan O ,$10.38M,$37.000,3.0,1.0,20.0,73.0
+386,22,Lime Stardom,Mongkok ,Flat H| High Floor|  Lime Stardom| Mongkok ,$7.60M,$37.000,,,7.0,78.0
+387,22,Metro Harbour View,Tai Kok Tsui ,Flat A| Middle Floor|  Block 06| Phase 1| Metro Harbour View| Tai Kok Tsui ,$6.88M,$37.000,2.0,2.0,16.0,68.0
+388,22,Metro Town,Tseung Kwan O ,Flat C| High Floor|  Block 8| Phase 2 (Le Point)| Metro Town| Tseung Kwan O ,$16.50M,$35.000,4.0,2.0,11.0,75.0
+389,22,Cullinan West,Sham Shui Po ,Flat K| Low Floor|  Tower 3B| Phase 3 (Cullinan West II)| Cullinan West| Sham Shui Po ,$9.80M,$35.000,,2.0,,
+390,22,Marina Cove,Sai Kung , 380 Hiram's Highway (House)| Stage 5| Marina Cove| Sai Kung ,$27.80M,$35.000,4.0,2.0,30.0,72.0
+391,22,Golden Phoenix Court,Western Mid-Levels ,Flat A| High Floor|  Golden Phoenix Court| Western Mid-Levels ,$10.50M,$35.000,2.0,2.0,38.0,83.0
+392,22,Island Resort,Shau Kei Wan/Chai Wan ,Flat H| High Floor|  Block 7| Island Resort| Shau Kei Wan/Chai Wan ,$10.80M,$25.000,3.0,2.0,18.0,68.0
+393,22,Wan Chai,Causeway Bay ,Flat C| Middle Floor|  Yoo Residence| Admiralty| Wan Chai| Causeway Bay ,$19.50M,$25.000,2.0,2.0,3.0,71.0
+394,22,Woodland Court,Western Mid-Levels ,Flat C| Middle Floor|  Woodland Court| Western Mid-Levels ,$8.18M,$25.000,1.0,,33.0,77.0
+395,22,Seymour,Western Mid-Levels ,Flat A| Low Floor|  Seymour| Western Mid-Levels ,$59.00M,$25.000,5.0,2.0,7.0,74.0
+396,23,1 Tai Hang Road,Happy Valley/East Mid Level ,Flat A| Middle Floor|  1 Tai Hang Road| Happy Valley/East Mid Level ,$21.68M,$25.000,3.0,2.0,28.0,80.0
+397,23,Lung Tak Court,Stanley/Tai Tam/Shek O ,Flat 7|  Block D| Lung Tak Court| Stanley/Tai Tam/Shek O ,$7.80M(Prem. Paid),$19.000,2.0,,18.0,75.0
+398,23,Telford Gardens,Amoy/Kowloon Bay ,Flat 16| Low Floor|  Block J| Telford Gardens| Amoy/Kowloon Bay ,$7.58M,$19.000,2.0,2.0,37.0,81.0
+399,23,Fortress Garden,North Point & North Point Midlevel ,Flat A| Middle Floor|  Fu Bon Court| Fortress Garden| North Point & North Point Midlevel ,$13.30M,$30.000,2.0,2.0,38.0,87.0
+400,23,Ridge Court,Repulse Bay & Shouson Hill ,High Floor|  Block C| Ridge Court| Repulse Bay & Shouson Hill ,$95.00M,$120.000,3.0,2.0,56.0,77.0
+401,23,Taikoo Shing,Taikoo Shing ,Flat A| High Floor|  Pine Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,$30.00M,$120.000,4.0,2.0,36.0,90.0
+402,23,One Kai Tak (I),Kai Tak ,Flat C| Middle Floor|  Tower 2| One Kai Tak (I)| Kai Tak ,$16.00M,$120.000,3.0,2.0,2.0,
+403,23,Nan Fung Sun Chuen,Quarry Bay ,Flat A| Low Floor|  Block 04| Nan Fung Sun Chuen| Quarry Bay ,$9.80M,$21.000,3.0,2.0,41.0,82.0
+404,23,The Legend At Jardine's Lookout,Happy Valley/East Mid Level ,Flat A| High Floor|  Block 2| The Legend At Jardine's Lookout| Happy Valley/East Mid Level ,$50.00M,$21.000,4.0,2.0,12.0,72.0
+405,23,Mei Foo Sun Chuen,Mei Foo ,Flat A| Low Floor|  Broadway 007| Phase I| Mei Foo Sun Chuen| Mei Foo ,$9.98M,$21.000,3.0,2.0,50.0,75.0
+406,23,The Merton,Western/Sheung Wan Central ,Flat G| Low Floor|  Block 2| The Merton| Western/Sheung Wan Central ,$13.80M,$21.000,2.0,2.0,14.0,73.0
+407,23,Taikoo Shing,Taikoo Shing ,Flat D| Low Floor|  Yuan Kung Mansion| Kam Din Terrace| Taikoo Shing| Taikoo Shing ,$14.50M,$21.000,3.0,2.0,39.0,88.0
+408,23,Lung Poon Court,Wong Tai Sin ,Flat 7| Middle Floor|  Block A| Lung Poon Court| Wong Tai Sin ,$7.20M(Prem. Paid),$21.000,2.0,2.0,32.0,74.0
+409,23,Grand Promenade,Sai Wan Ho ,Flat B| Low Floor|  Block 6| Grand Promenade| Sai Wan Ho ,$21.00M,$21.000,3.0,2.0,13.0,72.0
+410,23,Splendour Villa,Repulse Bay & Shouson Hill ,Flat C| Low Floor|  Splendour Villa| Repulse Bay & Shouson Hill ,$80.00M,$21.000,2.0,,25.0,78.0
+411,23,Manhattan Hill,Mei Foo ,Flat B| Middle Floor|  Block 2| Manhattan Hill| Mei Foo ,$38.50M,$75.000,,,12.0,78.0
+412,23,Residence Oasis,Tseung Kwan O ,Flat C| High Floor|  Block 1| Residence Oasis| Tseung Kwan O ,$9.70M,$24.500,,,14.0,75.0
+413,23,The Merton,Western/Sheung Wan Central ,Flat D| Low Floor|  Block 3| The Merton| Western/Sheung Wan Central ,$13.80M,$29.800,2.0,2.0,14.0,77.0
+414,24,1 Tai Hang Road,Happy Valley/East Mid Level ,Flat A| Middle Floor|  1 Tai Hang Road| Happy Valley/East Mid Level ,$21.68M,$29.800,3.0,2.0,28.0,80.0
+415,24,Lung Tak Court,Stanley/Tai Tam/Shek O ,Flat 7|  Block D| Lung Tak Court| Stanley/Tai Tam/Shek O ,$7.80M(Prem. Paid),$19.000,2.0,,18.0,75.0
+416,24,Telford Gardens,Amoy/Kowloon Bay ,Flat 16| Low Floor|  Block J| Telford Gardens| Amoy/Kowloon Bay ,$7.58M,$19.000,2.0,2.0,37.0,81.0
+417,24,Fortress Garden,North Point & North Point Midlevel ,Flat A| Middle Floor|  Fu Bon Court| Fortress Garden| North Point & North Point Midlevel ,$13.30M,$30.000,2.0,2.0,38.0,87.0
+418,24,Ridge Court,Repulse Bay & Shouson Hill ,High Floor|  Block C| Ridge Court| Repulse Bay & Shouson Hill ,$95.00M,$120.000,3.0,2.0,56.0,77.0
+419,24,Taikoo Shing,Taikoo Shing ,Flat A| High Floor|  Pine Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,$30.00M,$120.000,4.0,2.0,36.0,90.0
+420,24,One Kai Tak (I),Kai Tak ,Flat C| Middle Floor|  Tower 2| One Kai Tak (I)| Kai Tak ,$16.00M,$120.000,3.0,2.0,2.0,
+421,24,Nan Fung Sun Chuen,Quarry Bay ,Flat A| Low Floor|  Block 04| Nan Fung Sun Chuen| Quarry Bay ,$9.80M,$21.000,3.0,2.0,41.0,82.0
+422,24,The Legend At Jardine's Lookout,Happy Valley/East Mid Level ,Flat A| High Floor|  Block 2| The Legend At Jardine's Lookout| Happy Valley/East Mid Level ,$50.00M,$21.000,4.0,2.0,12.0,72.0
+423,24,Mei Foo Sun Chuen,Mei Foo ,Flat A| Low Floor|  Broadway 007| Phase I| Mei Foo Sun Chuen| Mei Foo ,$9.98M,$21.000,3.0,2.0,50.0,75.0
+424,24,The Merton,Western/Sheung Wan Central ,Flat G| Low Floor|  Block 2| The Merton| Western/Sheung Wan Central ,$13.80M,$21.000,2.0,2.0,14.0,73.0
+425,24,Taikoo Shing,Taikoo Shing ,Flat D| Low Floor|  Yuan Kung Mansion| Kam Din Terrace| Taikoo Shing| Taikoo Shing ,$14.50M,$21.000,3.0,2.0,39.0,88.0
+426,24,Lung Poon Court,Wong Tai Sin ,Flat 7| Middle Floor|  Block A| Lung Poon Court| Wong Tai Sin ,$7.20M(Prem. Paid),$21.000,2.0,2.0,32.0,74.0
+427,24,Grand Promenade,Sai Wan Ho ,Flat B| Low Floor|  Block 6| Grand Promenade| Sai Wan Ho ,$21.00M,$21.000,3.0,2.0,13.0,72.0
+428,24,Splendour Villa,Repulse Bay & Shouson Hill ,Flat C| Low Floor|  Splendour Villa| Repulse Bay & Shouson Hill ,$80.00M,$21.000,2.0,,25.0,78.0
+429,24,Manhattan Hill,Mei Foo ,Flat B| Middle Floor|  Block 2| Manhattan Hill| Mei Foo ,$38.50M,$75.000,,,12.0,78.0
+430,24,Residence Oasis,Tseung Kwan O ,Flat C| High Floor|  Block 1| Residence Oasis| Tseung Kwan O ,$9.70M,$24.500,,,14.0,75.0
+431,24,The Merton,Western/Sheung Wan Central ,Flat D| Low Floor|  Block 3| The Merton| Western/Sheung Wan Central ,$13.80M,$29.800,2.0,2.0,14.0,77.0
+432,25,Wilton Place,Western Mid-Levels ,Flat A| Middle Floor|  Wilton Place| Western Mid-Levels ,$15.00M,$29.800,2.0,2.0,21.0,74.0
+433,25,Wan Chai,Causeway... ,Flat F| Middle Floor|  Hennessy Road 475-477| East South Building| Admiralty| Wan Chai| Causeway... ,$7.00M,$29.800,2.0,,53.0,82.0
+434,25,The Coronation,Tsim Sha Tsui ,Flat E| High Floor|  Block 7| The Coronation| Tsim Sha Tsui ,$10.00M,$29.800,1.0,1.0,6.0,77.0
+435,25,Park Central,Tseung Kwan O ,Flat F| Low Floor|  Block 06| Phase 1| Park Central| Tseung Kwan O ,$11.00M,$29.800,3.0,2.0,16.0,75.0
+436,25,East Point City,Tseung Kwan O ,Flat D| Low Floor|  Block 8| East Point City| Tseung Kwan O ,$9.10M,$29.800,3.0,2.0,22.0,80.0
+437,25,Residence Bel-Air,Pokfulam/Residence ,Flat B|  Block 6| Phase 6 (Bel-Air No.8)| Residence Bel-Air| Pokfulam/Residence ,$24.68M,$29.800,2.0,,10.0,78.0
+438,25,Fung Fai Court,Happy Valley/East Mid Level ,Flat D| Low Floor|  Fung Fai Court| Happy Valley/East Mid Level ,$9.10M,$29.800,2.0,1.0,41.0,80.0
+439,25,Lions Rise,Wong Tai Sin ,Flat B| Middle Floor|  Block 3B| Lions Rise| Wong Tai Sin ,$15.00M,$30.000,4.0,2.0,7.0,77.0
+440,25,Corinthia By The Sea,Tseung Kwan O ,Flat G|  Block 6| Corinthia By The Sea| Tseung Kwan O ,$10.50M,$30.000,,,3.0,
+441,25,Telford Gardens,Amoy/Kowloon Bay ,Flat 5| Low Floor|  Block L| Telford Gardens| Amoy/Kowloon Bay ,$8.20M,$30.000,2.0,2.0,38.0,89.0
+442,25,Vision City,Tsuen Wan ,Flat D| Middle Floor|  Block 5| Vision City| Tsuen Wan ,$11.00M,$30.000,,,12.0,76.0
+443,25,Twin Peaks,Tseung Kwan O ,Flat C|  Tower 2| Twin Peaks| Tseung Kwan O ,$6.82M,$30.000,,,3.0,
+444,25,The Babington,Western Mid-Levels ,Flat A| Low Floor|  The Babington| Western Mid-Levels ,$58.00M,$108.000,4.0,,9.0,72.0
+445,25,King Shan Court,Wong Tai Sin ,Flat 5| High Floor|  Block B| King Shan Court| Wong Tai Sin ,$6.95M(Prem. Paid),$108.000,3.0,2.0,36.0,84.0
+446,25,Yuk Ming Court,Tseung Kwan O ,Flat 14| Middle Floor|  Block A( Wai Ming Court )| Yuk Ming Court| Tseung Kwan O ,$6.50M(Prem. Paid),$108.000,,,23.0,73.0
+447,25,Marina Cove,Sai Kung , 380 Hiram's Highway (House)| Stage 4| Marina Cove| Sai Kung ,$38.00M,$108.000,3.0,2.0,30.0,72.0
+448,25,Upper East,To Kwa Wan ,Flat L|  Block 1A| Upper East| To Kwa Wan ,$5.00M,$12.000,,,,
+449,25,Residence Bel-Air,Pokfulam/Residence , Bel-Air Rise (House)| Phase 3| Residence Bel-Air| Pokfulam/Residence ,$330.00M,$300.000,4.0,,14.0,77.0
+450,26,Island Harbourview,Olympic Station ,Flat A| Low Floor|  Block 10| Island Harbourview| Olympic Station ,$13.80M,$28.000,2.0,2.0,19.0,75.0
+451,26,Jade Villa,Sai Kung , 83B Ngau Liu| Jade Villa| Sai Kung ,$14.00M,$28.000,,,,
+452,26,Villa Lotto,Happy Valley/East Mid Level ,Flat 02| Low Floor|  Block A| Villa Lotto| Happy Valley/East Mid Level ,$80.00M,$28.000,4.0,2.0,31.0,90.0
+453,26,Ronsdale Garden,Happy Valley/East Mid Level ,Flat B| Middle Floor|  Block 1| Ronsdale Garden| Happy Valley/East Mid Level ,$26.00M,$50.000,2.0,2.0,33.0,80.0
+454,26,Robinson Heights,Western Mid-Levels ,Flat C| High Floor|  Block 3| Robinson Heights| Western Mid-Levels ,$22.22M,$40.000,3.0,2.0,29.0,85.0
+455,26,Lions Rise,Wong Tai Sin ,Flat C| High Floor|  Block 5A| Lions Rise| Wong Tai Sin ,$12.50M,$40.000,2.0,1.0,7.0,77.0
+456,26,The Legend At Jardine's Lookout,Happy Valley/East Mid Level ,Flat A| High Floor|  Block 1| The Legend At Jardine's Lookout| Happy Valley/East Mid Level ,$160.00M,$40.000,4.0,2.0,12.0,78.0
+457,26,Aspen Crest,Wong Tai Sin ,Flat C| Low Floor|  Aspen Crest| Wong Tai Sin ,$5.55M,$40.000,1.0,1.0,,
+458,26,South Horizons,Ap Lei Chau ,Flat B| Low Floor|  Block 17| Phase 3| South Horizons| Ap Lei Chau ,$12.00M,$28.000,3.0,2.0,25.0,78.0
+459,26,Shining Heights,Tai Kok Tsui ,Flat C| Low Floor|  Shining Heights| Tai Kok Tsui ,$9.00M,$24.800,2.0,2.0,10.0,71.0
+460,26,Grand Austin,Tsim Sha Tsui ,Flat C| Low Floor|  Tower 3 - T3| Grand Austin| Tsim Sha Tsui ,$50.00M,$24.800,4.0,1.0,4.0,
+461,26,Caroline Height,Happy Valley/East Mid Level ,Flat A| Middle Floor|  Caroline Height| Happy Valley/East Mid Level ,$17.50M,$24.800,3.0,2.0,34.0,71.0
+462,26,Shouson Peak,Repulse Bay & Shouson Hill , 9-19 Shouson Hill Road (House)| Shouson Peak| Repulse Bay & Shouson Hill ,$438.00M,$450.000,5.0,,7.0,70.0
+463,26,Crescent Heights,Happy Valley/East Mid Level ,Flat E| Low Floor|  Crescent Heights| Happy Valley/East Mid Level ,$17.50M,$32.000,2.0,2.0,22.0,81.0
+464,26,Vibe Centro,Kai Tak ,Flat E| Middle Floor|  Tower 2B| Vibe Centro| Kai Tak ,$13.70M,$32.000,2.0,2.0,,
+465,26,Wan Chai,Causeway Bay ,Flat 350A| Low Floor|  Cheong Ip Building| Admiralty| Wan Chai| Causeway Bay ,$5.40M,$32.000,2.0,2.0,53.0,77.0
+466,26,Ying Ming Court,Tseung Kwan O ,Flat 1| Middle Floor|  Ming On House| Ying Ming Court| Tseung Kwan O ,$5.90M(Prem. Paid),$32.000,,,30.0,78.0
+467,26,Greenway Terrace,Happy Valley/East Mid Level ,Flat A| Middle Floor|  Block 2| Greenway Terrace| Happy Valley/East Mid Level ,$16.00M,$32.000,3.0,2.0,26.0,72.0
+468,27,Scenecliff,Western Mid-Levels ,Flat D| High Floor|  Block 1| Scenecliff| Western Mid-Levels ,$15.50M,$32.000,2.0,2.0,28.0,78.0
+469,27,Oscar By The Sea,Tseung Kwan O ,Flat D| High Floor|  Block 7| Phase 2| Oscar By The Sea| Tseung Kwan O ,$8.18M,$32.000,,,17.0,75.0
+470,27,On Kay Court,Amoy/Kowloon Bay ,Flat 2| Low Floor|  Block C| On Kay Court| Amoy/Kowloon Bay ,$6.50M(Prem. Paid),$32.000,3.0,2.0,35.0,
+471,27,Aquamarine,Lai Chi Kok ,Flat G| High Floor|  Block 3| Aquamarine| Lai Chi Kok ,$10.00M,$32.000,2.0,2.0,15.0,75.0
+472,27,South Horizons,Ap Lei Chau ,Flat A| Middle Floor|  Block 26| Phase 4 (The Oasis)| South Horizons| Ap Lei Chau ,$9.30M,$32.000,2.0,2.0,24.0,79.0
+473,27,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat G| Middle Floor|  Block 11| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,$10.50M,$32.000,2.0,2.0,26.0,80.0
+474,27,Tak Bo Garden,Amoy/Kowloon Bay ,Flat A7| High Floor|  Block A| Tak Bo Garden| Amoy/Kowloon Bay ,$5.30M,$32.000,,,34.0,71.0
+475,27,Tak Bo Garden,Amoy/Kowloon Bay ,Flat B7| Middle Floor|  Block B| Tak Bo Garden| Amoy/Kowloon Bay ,$5.10M,$32.000,1.0,2.0,34.0,71.0
+476,27,The Ascent,Cheung Sha Wan ,Flat F| High Floor|  The Ascent| Cheung Sha Wan ,$6.30M,$32.000,1.0,,1.0,
+477,27,Taikoo Shing,Taikoo Shing ,Flat A| Low Floor|  Lotus Mansion| Harbour View Gardens (East)| Taikoo Shing| Taikoo Shing ,$25.50M,$32.000,4.0,2.0,35.0,90.0
+478,27,Hampton Place,Olympic Station ,Flat C| Middle Floor|  Block 2| Hampton Place| Olympic Station ,$9.80M,$20.000,2.0,2.0,15.0,70.0
+479,27,The Coronation,Tsim Sha Tsui ,Flat C| Low Floor|  Block 5| The Coronation| Tsim Sha Tsui ,$18.00M,$28.000,2.0,1.0,6.0,76.0
+480,27,Taikoo Shing,Taikoo Shing ,Flat A| Low Floor|  Po On Mansion| On Shing Terrace| Taikoo Shing| Taikoo Shing ,$16.00M,$28.000,3.0,1.0,38.0,88.0
+481,27,Soho 38,Western Mid-Levels ,Flat B| Low Floor|  Soho 38| Western Mid-Levels ,$7.55M,$22.000,,2.0,10.0,67.0
+482,27,Yee Fung Building,Happy Valley/East Mid Level ,Flat F| Low Floor|  Yee Fung Building| Happy Valley/East Mid Level ,$6.50M,$18.000,1.0,,46.0,76.0
+483,27,The Victoria Towers,Tsim Sha Tsui ,Flat C| High Floor|  Block 2| The Victoria Towers| Tsim Sha Tsui ,$16.00M,$32.000,2.0,1.0,16.0,70.0
+484,27,Hampton Place,Olympic Station ,Flat A| Middle Floor|  Block 1| Hampton Place| Olympic Station ,$10.80M,$32.000,2.0,2.0,15.0,75.0
+485,27,Baguio Villa,Pokfulam/Residence ,High Floor|  Block 18| Baguio Villa| Pokfulam/Residence ,$120.00M,$32.000,8.0,3.0,39.0,86.0
+486,28,Scenecliff,Western Mid-Levels ,Flat D| High Floor|  Block 1| Scenecliff| Western Mid-Levels ,$15.50M,$32.000,2.0,2.0,28.0,78.0
+487,28,Oscar By The Sea,Tseung Kwan O ,Flat D| High Floor|  Block 7| Phase 2| Oscar By The Sea| Tseung Kwan O ,$8.18M,$32.000,,,17.0,75.0
+488,28,On Kay Court,Amoy/Kowloon Bay ,Flat 2| Low Floor|  Block C| On Kay Court| Amoy/Kowloon Bay ,$6.50M(Prem. Paid),$32.000,3.0,2.0,35.0,
+489,28,Aquamarine,Lai Chi Kok ,Flat G| High Floor|  Block 3| Aquamarine| Lai Chi Kok ,$10.00M,$32.000,2.0,2.0,15.0,75.0
+490,28,South Horizons,Ap Lei Chau ,Flat A| Middle Floor|  Block 26| Phase 4 (The Oasis)| South Horizons| Ap Lei Chau ,$9.30M,$32.000,2.0,2.0,24.0,79.0
+491,28,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat G| Middle Floor|  Block 11| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,$10.50M,$32.000,2.0,2.0,26.0,80.0
+492,28,Tak Bo Garden,Amoy/Kowloon Bay ,Flat A7| High Floor|  Block A| Tak Bo Garden| Amoy/Kowloon Bay ,$5.30M,$32.000,,,34.0,71.0
+493,28,Tak Bo Garden,Amoy/Kowloon Bay ,Flat B7| Middle Floor|  Block B| Tak Bo Garden| Amoy/Kowloon Bay ,$5.10M,$32.000,1.0,2.0,34.0,71.0
+494,28,The Ascent,Cheung Sha Wan ,Flat F| High Floor|  The Ascent| Cheung Sha Wan ,$6.30M,$32.000,1.0,,1.0,
+495,28,Taikoo Shing,Taikoo Shing ,Flat A| Low Floor|  Lotus Mansion| Harbour View Gardens (East)| Taikoo Shing| Taikoo Shing ,$25.50M,$32.000,4.0,2.0,35.0,90.0
+496,28,Hampton Place,Olympic Station ,Flat C| Middle Floor|  Block 2| Hampton Place| Olympic Station ,$9.80M,$20.000,2.0,2.0,15.0,70.0
+497,28,The Coronation,Tsim Sha Tsui ,Flat C| Low Floor|  Block 5| The Coronation| Tsim Sha Tsui ,$18.00M,$28.000,2.0,1.0,6.0,76.0
+498,28,Taikoo Shing,Taikoo Shing ,Flat A| Low Floor|  Po On Mansion| On Shing Terrace| Taikoo Shing| Taikoo Shing ,$16.00M,$28.000,3.0,1.0,38.0,88.0
+499,28,Soho 38,Western Mid-Levels ,Flat B| Low Floor|  Soho 38| Western Mid-Levels ,$7.55M,$22.000,,2.0,10.0,67.0
+500,28,Yee Fung Building,Happy Valley/East Mid Level ,Flat F| Low Floor|  Yee Fung Building| Happy Valley/East Mid Level ,$6.50M,$18.000,1.0,,46.0,76.0
+501,28,The Victoria Towers,Tsim Sha Tsui ,Flat C| High Floor|  Block 2| The Victoria Towers| Tsim Sha Tsui ,$16.00M,$32.000,2.0,1.0,16.0,70.0
+502,28,Hampton Place,Olympic Station ,Flat A| Middle Floor|  Block 1| Hampton Place| Olympic Station ,$10.80M,$32.000,2.0,2.0,15.0,75.0
+503,28,Baguio Villa,Pokfulam/Residence ,High Floor|  Block 18| Baguio Villa| Pokfulam/Residence ,$120.00M,$32.000,8.0,3.0,39.0,86.0
+504,29,Chun Hing Mansion,Happy Valley/East Mid Level ,Low Floor|  Chun Hing Mansion| Happy Valley/East Mid Level ,$15.80M,$32.000,2.0,1.0,44.0,74.0
+505,29,The Latitude,Wong Tai Sin ,Flat A| Low Floor|  Block 2A| The Latitude| Wong Tai Sin ,$31.00M,$50.000,4.0,2.0,8.0,78.0
+506,29,Wilton Place,Western Mid-Levels ,Flat A| Middle Floor|  Wilton Place| Western Mid-Levels ,$30.00M,$60.000,2.0,2.0,21.0,78.0
+507,29,The Coronation,Tsim Sha Tsui ,Flat F| Middle Floor|  Block 6| The Coronation| Tsim Sha Tsui ,$8.80M,$23.100,,1.0,6.0,80.0
+508,29,The Coronation,Tsim Sha Tsui ,Flat B| Middle Floor|  Block 5| The Coronation| Tsim Sha Tsui ,$27.00M,$48.000,3.0,1.0,6.0,77.0
+509,29,King Ming Court,Tseung Kwan O ,Flat 9| Low Floor|  Hei King House ( Block A )| King Ming Court| Tseung Kwan O ,$8.40M(Prem. Paid),$48.000,3.0,2.0,31.0,78.0
+510,29,5 Wiltshire Road,Kln Tong / Beacon Hill , 5-7 Wiltshire Road (House)| 5 Wiltshire Road| Kln Tong / Beacon Hill ,$220.00M,$48.000,13.0,,30.0,
+511,29,Yuccie Square,Yuen Long ,Flat F|  Block 3| Yuccie Square| Yuen Long ,$10.50M,$21.500,,,2.0,
+512,29,The Cullinan,Kowloon Station ,Flat A| Middle Floor|  Aster Sky| The Cullinan| Kowloon Station ,$49.88M,$68.800,3.0,1.0,12.0,73.0
+513,29,The Masterpiece,Tsim Sha Tsui ,Flat J| Low Floor|  The Masterpiece| Tsim Sha Tsui ,$36.00M,$65.000,2.0,1.0,10.0,72.0
+514,29,Greenfields,Yuen Long ,Flat E| Low Floor|  Block 1| Greenfields| Yuen Long ,$6.20M,$13.000,2.0,2.0,20.0,73.0
+515,29,May Tower,Central Mid-Levels & Peak ,High Floor|  Block 2| May Tower| Central Mid-Levels & Peak ,$150.00M,$150.000,4.0,2.0,27.0,79.0
+516,29,Le Village,Happy Valley/East Mid Level ,Flat A| High Floor|  Le Village| Happy Valley/East Mid Level ,$31.00M,$150.000,2.0,2.0,17.0,73.0
+517,29,Skyline Mansion,Western Mid-Levels ,Flat E| Middle Floor|  Block 2| Skyline Mansion| Western Mid-Levels ,$43.00M,$150.000,2.0,,44.0,89.0
+518,29,The Leighton Hill,Happy Valley/East Mid Level ,Flat B| Low Floor|  Block 7| The Leighton Hill| Happy Valley/East Mid Level ,$78.80M,$150.000,4.0,2.0,17.0,77.0
+519,29,Marina Cove,Sai Kung , 380 Hiram's Highway (House)| Stage 2| Marina Cove| Sai Kung ,$45.00M,$150.000,,,31.0,76.0
+520,29,Chatham Gate,Hung Hom ,Flat A| Middle Floor|  Block 1| Chatham Gate| Hung Hom ,$35.00M,$150.000,6.0,2.0,6.0,77.0
+521,29,Padek Palace,Prince Edward Rd ,Flat C| High Floor|  Padek Palace| Prince Edward Rd ,$29.50M,$150.000,3.0,2.0,15.0,
+522,30,Albion Gardens,Kln Tong / Beacon Hill ,Flat E| Low Floor|  Albion Gardens| Kln Tong / Beacon Hill ,$48.00M,$150.000,3.0,2.0,37.0,91.0
+523,30,Flora Villa,Yau Yat Chuen/Shek Kip Mei ,Low Floor|  Flora Villa| Yau Yat Chuen/Shek Kip Mei ,$43.00M,$150.000,3.0,2.0,38.0,81.0
+524,30,Seymour,Western Mid-Levels ,Flat A| High Floor|  Seymour| Western Mid-Levels ,$150.00M,$150.000,5.0,1.0,7.0,74.0
+525,30,Yick King Building,Happy Valley/East Mid Level ,Flat B| Middle Floor|  Yick King Building| Happy Valley/East Mid Level ,$33.00M,$150.000,3.0,2.0,44.0,83.0
+526,30,55 Conduit Road,Western Mid-Levels ,Flat C|  55 Conduit Road| Western Mid-Levels ,$90.00M,$150.000,3.0,,4.0,
+527,30,Grand Garden,Repulse Bay & Shouson Hill ,Flat A| Low Floor|  Block 3| Grand Garden| Repulse Bay & Shouson Hill ,$43.80M,$150.000,3.0,2.0,32.0,75.0
+528,30,The Lamma Palace,Prince Edward Rd ,Flat A| High Floor|  The Lamma Palace| Prince Edward Rd ,$50.00M,$150.000,3.0,2.0,13.0,68.0
+529,30,Illumination Terrace,Happy Valley/East Mid Level ,Flat A| Middle Floor|  Block 2| Illumination Terrace| Happy Valley/East Mid Level ,$16.80M,$38.000,3.0,2.0,26.0,80.0
+530,30,Ocean Shores,Tseung Kwan O ,Flat A| High Floor|  Block 10| Phase 2| Ocean Shores| Tseung Kwan O ,$21.80M,$38.000,,,17.0,73.0
+531,30,Ocean Shores,Tseung Kwan O ,Flat B| High Floor|  Block 10| Phase 2| Ocean Shores| Tseung Kwan O ,$21.80M,$38.000,,,17.0,73.0
+532,30,Tseung Kwan O Plaza,Tseung Kwan O ,Flat C| High Floor|  Block 5| Phase 2| Tseung Kwan O Plaza| Tseung Kwan O ,$8.50M,$38.000,,,15.0,73.0
+533,30,Cavendish Heights,Happy Valley/East Mid Level ,Flat B| High Floor|  Block 3| Cavendish Heights| Happy Valley/East Mid Level ,$55.00M,$38.000,3.0,2.0,32.0,79.0
+534,30,Bauhinia Garden,Tseung Kwan O ,Flat C| Middle Floor|  Tower 6| Bauhinia Garden| Tseung Kwan O ,$6.20M(Prem. Not Paid),$38.000,2.0,,18.0,85.0
+535,30,Savannah,Tseung Kwan O ,Flat F|  Block 3C| Savannah| Tseung Kwan O ,$8.38M,$38.000,,,2.0,
+536,30,Wah Sen Court,Western Mid-Levels ,Low Floor|  Wah Sen Court| Western Mid-Levels ,$31.00M,$38.000,3.0,2.0,53.0,85.0
+537,30,The Waterfront,Kowloon Station ,Flat A| Low Floor|  Block 7| Phase 2| The Waterfront| Kowloon Station ,$28.00M,$38.000,3.0,1.0,18.0,80.0
+538,30,Ocean Shores,Tseung Kwan O ,Flat E| Low Floor|  Block 07| Phase 2| Ocean Shores| Tseung Kwan O ,$8.50M,$38.000,2.0,2.0,17.0,72.0
+539,30,Park Central,Tseung Kwan O ,Flat B| Low Floor|  Block 03| Phase 2| Park Central| Tseung Kwan O ,$10.80M,$38.000,4.0,2.0,16.0,75.0
+540,31,Casa Bella,Sai Kung , Block 9| Casa Bella| Sai Kung ,$22.00M,$38.000,,,25.0,80.0
+541,31,Cheung King Mansion,Tsim Sha Tsui ,Flat B| Middle Floor|  Cheung King Mansion| Tsim Sha Tsui ,$7.00M,$38.000,,,40.0,76.0
+542,31,Lung Poon Court,Wong Tai Sin ,Flat 5| Low Floor|  Block D| Lung Poon Court| Wong Tai Sin ,$5.98M(Prem. Paid),$38.000,1.0,2.0,32.0,74.0
+543,31,La Cite Noble,Tseung Kwan O ,Flat D| High Floor|  Block 5| La Cite Noble| Tseung Kwan O ,$7.80M,$38.000,2.0,2.0,20.0,72.0
+544,31,Residence Oasis,Tseung Kwan O ,Flat G| High Floor|  Block 1| Residence Oasis| Tseung Kwan O ,$9.20M,$38.000,,,14.0,74.0
+545,31,Pearl Court,Western/Sheung Wan Central ,Flat 4| Middle Floor|  Block A| Pearl Court| Western/Sheung Wan Central ,$8.68M,$38.000,2.0,,39.0,
+546,31,Wan Chai,Causeway Bay ,Flat M| Low Floor|  Tower 2| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,$15.50M,$38.000,2.0,,4.0,
+547,31,The Pacifica,Lai Chi Kok ,Flat E| Low Floor|  Block 3| Phase 1| The Pacifica| Lai Chi Kok ,$9.80M,$38.000,2.0,1.0,14.0,70.0
+548,31,Palm Court,Happy Valley/East Mid Level ,Middle Floor|  Palm Court| Happy Valley/East Mid Level ,$15.50M,$38.000,2.0,1.0,21.0,62.0
+549,31,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  Sung Lan Mansion| Admiralty| Wan Chai| Causeway Bay ,$14.00M,$38.000,2.0,2.0,54.0,79.0
+550,31,Wan Chai,Causeway Bay ,Flat C| High Floor|  Empire Court| Admiralty| Wan Chai| Causeway Bay ,$13.50M,$38.000,2.0,2.0,61.0,80.0
+551,31,Grand Promenade,Sai Wan Ho ,Flat D| High Floor|  Block 6| Grand Promenade| Sai Wan Ho ,$23.80M,$38.000,,,13.0,72.0
+552,31,Residence Bel-Air,Pokfulam/Residence ,Flat A| Middle Floor|  Block 1| Phase 1| Residence Bel-Air| Pokfulam/Residence ,$26.00M,$38.000,2.0,2.0,15.0,83.0
+553,31,37 Village Terrace,Happy Valley/East Mid Level ,Middle Floor|  Village Terrace 37| 37 Village Terrace| Happy Valley/East Mid Level ,$30.00M,$38.000,3.0,2.0,59.0,80.0
+554,31,The Belcher's,Western/Sheung Wan Central ,Flat D| High Floor|  Block 3| Phase 1| The Belcher's| Western/Sheung Wan Central ,$19.50M,$38.000,2.0,2.0,18.0,78.0
+555,31,Discovery Park,Tsuen Wan ,Flat D| Low Floor|  Block 09| Phase 3| Discovery Park| Tsuen Wan ,$8.50M,$38.000,3.0,2.0,21.0,80.0
+556,31,Ocean Shores,Tseung Kwan O ,Flat H| Low Floor|  Block 09| Phase 2| Ocean Shores| Tseung Kwan O ,$8.68M,$38.000,2.0,1.0,17.0,73.0
+557,31,Floral Villas,Sai Kung , House -| Floral Villas| Sai Kung ,$40.00M,$38.000,,,25.0,79.0
+558,32,Casa Bella,Sai Kung , Block 9| Casa Bella| Sai Kung ,$22.00M,$38.000,,,25.0,80.0
+559,32,Cheung King Mansion,Tsim Sha Tsui ,Flat B| Middle Floor|  Cheung King Mansion| Tsim Sha Tsui ,$7.00M,$38.000,,,40.0,76.0
+560,32,Lung Poon Court,Wong Tai Sin ,Flat 5| Low Floor|  Block D| Lung Poon Court| Wong Tai Sin ,$5.98M(Prem. Paid),$38.000,1.0,2.0,32.0,74.0
+561,32,La Cite Noble,Tseung Kwan O ,Flat D| High Floor|  Block 5| La Cite Noble| Tseung Kwan O ,$7.80M,$38.000,2.0,2.0,20.0,72.0
+562,32,Residence Oasis,Tseung Kwan O ,Flat G| High Floor|  Block 1| Residence Oasis| Tseung Kwan O ,$9.20M,$38.000,,,14.0,74.0
+563,32,Pearl Court,Western/Sheung Wan Central ,Flat 4| Middle Floor|  Block A| Pearl Court| Western/Sheung Wan Central ,$8.68M,$38.000,2.0,,39.0,
+564,32,Wan Chai,Causeway Bay ,Flat M| Low Floor|  Tower 2| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,$15.50M,$38.000,2.0,,4.0,
+565,32,The Pacifica,Lai Chi Kok ,Flat E| Low Floor|  Block 3| Phase 1| The Pacifica| Lai Chi Kok ,$9.80M,$38.000,2.0,1.0,14.0,70.0
+566,32,Palm Court,Happy Valley/East Mid Level ,Middle Floor|  Palm Court| Happy Valley/East Mid Level ,$15.50M,$38.000,2.0,1.0,21.0,62.0
+567,32,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  Sung Lan Mansion| Admiralty| Wan Chai| Causeway Bay ,$14.00M,$38.000,2.0,2.0,54.0,79.0
+568,32,Wan Chai,Causeway Bay ,Flat C| High Floor|  Empire Court| Admiralty| Wan Chai| Causeway Bay ,$13.50M,$38.000,2.0,2.0,61.0,80.0
+569,32,Grand Promenade,Sai Wan Ho ,Flat D| High Floor|  Block 6| Grand Promenade| Sai Wan Ho ,$23.80M,$38.000,,,13.0,72.0
+570,32,Residence Bel-Air,Pokfulam/Residence ,Flat A| Middle Floor|  Block 1| Phase 1| Residence Bel-Air| Pokfulam/Residence ,$26.00M,$38.000,2.0,2.0,15.0,83.0
+571,32,37 Village Terrace,Happy Valley/East Mid Level ,Middle Floor|  Village Terrace 37| 37 Village Terrace| Happy Valley/East Mid Level ,$30.00M,$38.000,3.0,2.0,59.0,80.0
+572,32,The Belcher's,Western/Sheung Wan Central ,Flat D| High Floor|  Block 3| Phase 1| The Belcher's| Western/Sheung Wan Central ,$19.50M,$38.000,2.0,2.0,18.0,78.0
+573,32,Discovery Park,Tsuen Wan ,Flat D| Low Floor|  Block 09| Phase 3| Discovery Park| Tsuen Wan ,$8.50M,$38.000,3.0,2.0,21.0,80.0
+574,32,Ocean Shores,Tseung Kwan O ,Flat H| Low Floor|  Block 09| Phase 2| Ocean Shores| Tseung Kwan O ,$8.68M,$38.000,2.0,1.0,17.0,73.0
+575,32,Floral Villas,Sai Kung , House -| Floral Villas| Sai Kung ,$40.00M,$38.000,,,25.0,79.0
+576,33,Excelsior Court,Western Mid-Levels ,Flat B| High Floor|  Excelsior Court| Western Mid-Levels ,$28.00M,$38.000,3.0,2.0,30.0,84.0
+577,33,Telford Gardens,Amoy/Kowloon Bay ,Flat 12| Middle Floor|  Block B| Telford Gardens| Amoy/Kowloon Bay ,$7.70M,$38.000,1.0,2.0,38.0,89.0
+578,33,Echo Peak Tower,North Point & North Point Midlevel ,Low Floor|  Echo Peak Tower| North Point & North Point Midlevel ,$13.80M,$38.000,3.0,2.0,31.0,71.0
+579,33,Parisian,Stanley/Tai Tam/Shek O ,Low Floor|  Parisian| Stanley/Tai Tam/Shek O ,$45.00M,$38.000,3.0,2.0,29.0,80.0
+580,33,Lung Poon Court,Wong Tai Sin ,Flat 4| Middle Floor|  Block E| Lung Poon Court| Wong Tai Sin ,$6.60M(Prem. Paid),$38.000,2.0,2.0,32.0,74.0
+581,33,Villa Rosa,Stanley/Tai Tam/Shek O , 88 Red Hill Road (House)| Villa Rosa| Stanley/Tai Tam/Shek O ,$180.00M,$38.000,4.0,2.0,22.0,84.0
+582,33,The Masterpiece,Tsim Sha Tsui ,Flat F| High Floor|  The Masterpiece| Tsim Sha Tsui ,$43.00M,$38.000,2.0,1.0,10.0,72.0
+583,33,Hamden Court,Kwun Tong ,Flat 4| Low Floor|  Block B| Hamden Court| Kwun Tong ,$5.80M,$38.000,,,34.0,
+584,33,The Wings,Tseung Kwan O ,Flat D|  Block 3B| Phase 3A| The Wings| Tseung Kwan O ,$8.00M,$38.000,,,3.0,
+585,33,Harbour Green,Olympic Station ,Flat D| High Floor|  Block 6| Harbour Green| Olympic Station ,$12.00M,$38.000,,,12.0,77.0
+586,33,South Bay Towers,Repulse Bay & Shouson Hill ,Flat B| Middle Floor|  South Bay Towers| Repulse Bay & Shouson Hill ,$75.00M,$38.000,3.0,2.0,34.0,78.0
+587,33,One Beacon Hill,Kln Tong / Beacon Hill ,High Floor|  Block 18| Phase 4| One Beacon Hill| Kln Tong / Beacon Hill ,$53.00M,$38.000,4.0,2.0,15.0,74.0
+588,33,Metro City,Tseung Kwan O ,Flat G| Low Floor|  Block 03| Phase 2| Metro City| Tseung Kwan O ,$6.46M,$38.000,,,19.0,70.0
+589,33,Lei King Wan,Sai Wan Ho ,Flat H| High Floor|  Kwun King Mansion| Site A| Lei King Wan| Sai Wan Ho ,$15.98M,$38.000,3.0,2.0,31.0,90.0
+590,33,Valiant Park,Western Mid-Levels ,Flat G| Middle Floor|  Valiant Park| Western Mid-Levels ,$20.68M,$38.000,3.0,2.0,26.0,81.0
+591,33,Forfar,Kln Tong / Beacon Hill ,Flat A| Low Floor|  The Forfar| Forfar| Kln Tong / Beacon Hill ,$50.00M,$38.000,4.0,2.0,9.0,72.0
+592,33,Po Tak Mansion,Happy Valley/East Mid Level ,Flat B| High Floor|  Po Tak Mansion| Happy Valley/East Mid Level ,$16.80M,$38.000,3.0,,56.0,80.0
+593,33,Lei King Wan,Sai Wan Ho ,Flat C| Low Floor|  Yat Wah Mansion| Site B| Lei King Wan| Sai Wan Ho ,$11.50M,$38.000,2.0,2.0,31.0,86.0
+594,34,Excelsior Court,Western Mid-Levels ,Flat B| High Floor|  Excelsior Court| Western Mid-Levels ,$28.00M,$38.000,3.0,2.0,30.0,84.0
+595,34,Telford Gardens,Amoy/Kowloon Bay ,Flat 12| Middle Floor|  Block B| Telford Gardens| Amoy/Kowloon Bay ,$7.70M,$38.000,1.0,2.0,38.0,89.0
+596,34,Echo Peak Tower,North Point & North Point Midlevel ,Low Floor|  Echo Peak Tower| North Point & North Point Midlevel ,$13.80M,$38.000,3.0,2.0,31.0,71.0
+597,34,Parisian,Stanley/Tai Tam/Shek O ,Low Floor|  Parisian| Stanley/Tai Tam/Shek O ,$45.00M,$38.000,3.0,2.0,29.0,80.0
+598,34,Lung Poon Court,Wong Tai Sin ,Flat 4| Middle Floor|  Block E| Lung Poon Court| Wong Tai Sin ,$6.60M(Prem. Paid),$38.000,2.0,2.0,32.0,74.0
+599,34,Villa Rosa,Stanley/Tai Tam/Shek O , 88 Red Hill Road (House)| Villa Rosa| Stanley/Tai Tam/Shek O ,$180.00M,$38.000,4.0,2.0,22.0,84.0
+600,34,The Masterpiece,Tsim Sha Tsui ,Flat F| High Floor|  The Masterpiece| Tsim Sha Tsui ,$43.00M,$38.000,2.0,1.0,10.0,72.0
+601,34,Hamden Court,Kwun Tong ,Flat 4| Low Floor|  Block B| Hamden Court| Kwun Tong ,$5.80M,$38.000,,,34.0,
+602,34,The Wings,Tseung Kwan O ,Flat D|  Block 3B| Phase 3A| The Wings| Tseung Kwan O ,$8.00M,$38.000,,,3.0,
+603,34,Harbour Green,Olympic Station ,Flat D| High Floor|  Block 6| Harbour Green| Olympic Station ,$12.00M,$38.000,,,12.0,77.0
+604,34,South Bay Towers,Repulse Bay & Shouson Hill ,Flat B| Middle Floor|  South Bay Towers| Repulse Bay & Shouson Hill ,$75.00M,$38.000,3.0,2.0,34.0,78.0
+605,34,One Beacon Hill,Kln Tong / Beacon Hill ,High Floor|  Block 18| Phase 4| One Beacon Hill| Kln Tong / Beacon Hill ,$53.00M,$38.000,4.0,2.0,15.0,74.0
+606,34,Metro City,Tseung Kwan O ,Flat G| Low Floor|  Block 03| Phase 2| Metro City| Tseung Kwan O ,$6.46M,$38.000,,,19.0,70.0
+607,34,Lei King Wan,Sai Wan Ho ,Flat H| High Floor|  Kwun King Mansion| Site A| Lei King Wan| Sai Wan Ho ,$15.98M,$38.000,3.0,2.0,31.0,90.0
+608,34,Valiant Park,Western Mid-Levels ,Flat G| Middle Floor|  Valiant Park| Western Mid-Levels ,$20.68M,$38.000,3.0,2.0,26.0,81.0
+609,34,Forfar,Kln Tong / Beacon Hill ,Flat A| Low Floor|  The Forfar| Forfar| Kln Tong / Beacon Hill ,$50.00M,$38.000,4.0,2.0,9.0,72.0
+610,34,Po Tak Mansion,Happy Valley/East Mid Level ,Flat B| High Floor|  Po Tak Mansion| Happy Valley/East Mid Level ,$16.80M,$38.000,3.0,,56.0,80.0
+611,34,Lei King Wan,Sai Wan Ho ,Flat C| Low Floor|  Yat Wah Mansion| Site B| Lei King Wan| Sai Wan Ho ,$11.50M,$38.000,2.0,2.0,31.0,86.0
+612,35,Metro City,Tseung Kwan O ,Flat C| Middle Floor|  Block 9| Phase 2| Metro City| Tseung Kwan O ,$6.98M,$38.000,1.0,2.0,19.0,70.0
+613,35,High West,Western Mid-Levels ,Flat D| High Floor|  High West| Western Mid-Levels ,$7.90M,$38.000,1.0,2.0,5.0,72.0
+614,35,Sun Yuen Long Centre,Yuen Long ,Flat G| High Floor|  Block 4| Sun Yuen Long Centre| Yuen Long ,$7.20M,$38.000,2.0,2.0,25.0,81.0
+615,35,Hampton Place,Olympic Station ,Flat C| High Floor|  Block 1| Hampton Place| Olympic Station ,$10.80M,$38.000,2.0,2.0,15.0,74.0
+616,35,Wilton Place,Western Mid-Levels ,Flat B| High Floor|  Wilton Place| Western Mid-Levels ,$13.50M,$38.000,2.0,2.0,21.0,76.0
+617,35,Belcher's Hill,Western/Sheung Wan Central ,Flat D| High Floor|  Belcher's Hill| Western/Sheung Wan Central ,$52.80M,$38.000,3.0,2.0,8.0,
+618,35,Whampoa Garden,Hung Hom/Whampoa ,Flat D| High Floor|  Block 08| Site 5| Whampoa Garden| Hung Hom/Whampoa ,$9.50M,$38.000,2.0,2.0,31.0,87.0
+619,35,No.2 Park Road,Western Mid-Levels ,Flat A| High Floor|  Park Road 2| No.2 Park Road| Western Mid-Levels ,$17.00M,$38.000,3.0,2.0,15.0,72.0
+620,35,Telford Gardens,Amoy/Kowloon Bay ,Flat 8| High Floor|  Block I| Telford Gardens| Amoy/Kowloon Bay ,$7.30M,$38.000,2.0,2.0,38.0,90.0
+621,35,Mountain Court,Homantin/Kingspark ,Flat D| High Floor|  Block A| Mountain Court| Homantin/Kingspark ,$23.00M,$40.000,3.0,2.0,34.0,83.0
+622,35,Metro City,Tseung Kwan O ,Flat H| Low Floor|  Block 03| Phase 1| Metro City| Tseung Kwan O ,$7.88M,$40.000,3.0,2.0,22.0,72.0
+623,35,Kornville,Quarry Bay ,Flat F| Middle Floor|  Block 2| Kornville| Quarry Bay ,$8.35M,$40.000,2.0,2.0,23.0,76.0
+624,35,The Waterfront,Kowloon Station ,Flat F| Low Floor|  Block 2| Phase 1| The Waterfront| Kowloon Station ,$22.00M,$40.000,3.0,2.0,18.0,81.0
+625,35,The Pacifica,Lai Chi Kok ,Low Floor|  Block 3| Phase 1| The Pacifica| Lai Chi Kok ,$16.50M,$40.000,4.0,2.0,14.0,76.0
+626,35,Wan Chai,Causeway Bay ,Flat C| Middle Floor|  Tower A| Tonnochy Towers| Admiralty| Wan Chai| Causeway Bay ,$6.50M,$40.000,1.0,2.0,44.0,83.0
+627,35,18 Upper East,Sai Wan Ho ,Flat D| Middle Floor|  18 Upper East| Sai Wan Ho ,$6.90M,$40.000,1.0,,6.0,72.0
+628,35,High Point,Sham Shui Po ,Flat D| High Floor|  High Point| Sham Shui Po ,$7.88M,$40.000,2.0,1.0,5.0,71.0
+629,35,Nan Fung Sun Chuen,Quarry Bay ,Flat E| Middle Floor|  Block 08| Nan Fung Sun Chuen| Quarry Bay ,$9.60M,$40.000,3.0,2.0,40.0,82.0
+630,36,Skypark,Mongkok ,Flat B6|  Skypark| Mongkok ,$9.80M,$40.000,,,2.0,
+631,36,Stars By The Harbour,Hung Hom ,Flat C| Middle Floor|  Block 1| Stars By The Harbour| Hung Hom ,$24.80M,$40.000,3.0,2.0,3.0,
+632,36,Serenade,Happy Valley/East Mid Level ,Flat B| High Floor|  Tower 2| Serenade| Happy Valley/East Mid Level ,$41.00M,$40.000,4.0,2.0,9.0,75.0
+633,36,Park Summit,Tai Kok Tsui ,Flat F| High Floor|  Block 1| Park Summit| Tai Kok Tsui ,$6.00M,$40.000,,2.0,6.0,80.0
+634,36,The Sparkle,Lai Chi Kok ,Flat A| Low Floor|  Block 2| The Sparkle| Lai Chi Kok ,$11.80M,$40.000,,,11.0,73.0
+635,36,Metro Harbour View,Tai Kok Tsui ,Flat B| Middle Floor|  Block 10| Phase 2| Metro Harbour View| Tai Kok Tsui ,$7.85M,$40.000,,,15.0,70.0
+636,36,Goldwin Heights,Western Mid-Levels ,Flat E| High Floor|  Goldwin Heights| Western Mid-Levels ,$25.00M,$40.000,3.0,2.0,25.0,77.0
+637,36,Bel Air Heights,Wong Tai Sin ,Flat E| Middle Floor|  Block 1| Bel Air Heights| Wong Tai Sin ,$10.80M,$40.000,4.0,2.0,20.0,79.0
+638,36,Aquamarine,Lai Chi Kok ,Flat G| High Floor|  Block 2| Aquamarine| Lai Chi Kok ,$11.00M,$40.000,2.0,2.0,15.0,75.0
+639,36,Manhattan Heights,Western/Sheung Wan Central ,Flat J| High Floor|  Manhattan Heights| Western/Sheung Wan Central ,$11.80M,$40.000,2.0,2.0,19.0,74.0
+640,36,Hang Po Building,North Point & North Point Midlevel ,Flat A| High Floor|  Hang Po Building| North Point & North Point Midlevel ,$6.30M,$13.500,1.0,1.0,39.0,66.0
+641,36,Golden Lion Garden,Shatin ,Flat 8| High Floor|  Stage 2 - Blk A - (Golden Wealth Court)| Golden Lion Garden| Shatin ,$5.80M,$13.500,2.0,1.0,31.0,62.0
+642,36,Park Central,Tseung Kwan O ,Flat H| Low Floor|  Block 02| Phase 2| Park Central| Tseung Kwan O ,$8.60M,$13.500,,,16.0,75.0
+643,36,Aquamarine,Lai Chi Kok ,Flat G| High Floor|  Block 5| Aquamarine| Lai Chi Kok ,$9.90M,$13.500,2.0,2.0,15.0,75.0
+644,36,Lee Kee Building,Amoy/Kowloon Bay ,Flat 4| Low Floor|  Block D| Lee Kee Building| Amoy/Kowloon Bay ,$6.50M,$13.500,2.0,2.0,41.0,86.0
+645,36,Banyan Garden,Lai Chi Kok ,Flat C| High Floor|  Block 8| Phase II| Banyan Garden| Lai Chi Kok ,$15.00M,$13.500,3.0,2.0,14.0,75.0
+646,36,Verdun Villa,Kln Tong / Beacon Hill ,Middle Floor|  Verdun Villa| Kln Tong / Beacon Hill ,$36.80M,$13.500,5.0,2.0,50.0,83.0
+647,36,24-26 King Kwong Street,Happy Valley/East Mid Level ,Middle Floor|  26-28 King Kwong Street| 24-26 King Kwong Street| Happy Valley/East Mid Level ,$7.50M,$13.500,2.0,1.0,53.0,74.0
+648,37,Windsor Court,Western Mid-Levels ,Flat C| High Floor|  Windsor Court| Western Mid-Levels ,$7.50M,$13.500,1.0,,25.0,71.0
+649,37,The Hudson,Western/Sheung Wan Central ,Flat C| High Floor|  The Hudson| Western/Sheung Wan Central ,$20.00M,$13.500,3.0,2.0,3.0,
+650,37,Claymore Lodge,Happy Valley/East Mid Level ,Flat A| High Floor|  Claymore Lodge| Happy Valley/East Mid Level ,$6.50M,$13.500,1.0,,29.0,67.0
+651,37,South Horizons,Ap Lei Chau ,Flat E| Low Floor|  Block 08| Phase 2| South Horizons| Ap Lei Chau ,$16.00M,$13.500,3.0,2.0,26.0,79.0
+652,37,Park Towers,North Point & North Point Midlevel ,Flat E| High Floor|  Block 1| Park Towers| North Point & North Point Midlevel ,$25.70M,$13.500,3.0,2.0,30.0,78.0
+653,37,Kornhill,Quarry Bay ,Flat 9| Low Floor|  Block D| Kornhill| Quarry Bay ,$10.00M,$13.500,3.0,2.0,33.0,79.0
+654,37,Everwell Garden,Homantin/Kingspark ,Flat G| Low Floor|  Everwell Gdn| Everwell Garden| Homantin/Kingspark ,$25.00M,$13.500,4.0,2.0,47.0,91.0
+655,37,Yuk Ming Court,Tseung Kwan O ,Flat 9| Low Floor|  Block A( Wai Ming Court )| Yuk Ming Court| Tseung Kwan O ,$5.80M(Prem. Not Paid),$13.500,,,23.0,73.0
+656,37,Peaceful Mansion,Cheung Sha Wan ,Flat E| Middle Floor|  Peaceful Mansion| Cheung Sha Wan ,$6.30M,$13.500,,,17.0,
+657,37,Aquamarine,Lai Chi Kok ,Flat D| Low Floor|  Block 5| Aquamarine| Lai Chi Kok ,$9.00M,$13.500,2.0,2.0,15.0,74.0
+658,37,Lime Stardom,Mongkok ,Flat K| Middle Floor|  Lime Stardom| Mongkok ,$8.38M,$13.500,1.0,2.0,7.0,78.0
+659,37,Victoria Skye,Kai Tak ,Flat F| Low Floor|  Ocean Waves Tower 2| Victoria Skye| Kai Tak ,$12.80M,$13.500,2.0,2.0,,
+660,37,Deep Water Bay Road 39,Repulse Bay & Shouson Hill , House| Deep Water Bay Road 39| Repulse Bay & Shouson Hill ,$280.00M,$13.500,4.0,2.0,32.0,84.0
+661,37,Liberte,Lai Chi Kok ,Flat G| Low Floor|  Block 5| Liberte| Lai Chi Kok ,$9.78M,$13.500,2.0,2.0,15.0,78.0
+662,37,Residence Bel-Air,Pokfulam/Residence , Bel-Air Peak Rise (House)| Phase 5 (Villa Bel-Air)| Residence Bel-Air| Pokfulam/Residence ,$298.00M,$13.500,,,12.0,68.0
+663,37,Bon-Point,Western Mid-Levels ,Flat B| High Floor|  Bon-Point| Western Mid-Levels ,$29.00M,$13.500,3.0,2.0,15.0,70.0
+664,37,Aria,Wong Tai Sin ,Flat A| Middle Floor|  Block 5| Aria| Wong Tai Sin ,$23.00M,$13.500,4.0,2.0,8.0,79.0
+665,37,Wan Chai,Causeway Bay ,Flat 5| High Floor|  Southorn Garden| Admiralty| Wan Chai| Causeway Bay ,$10.50M,$13.500,1.0,2.0,31.0,77.0
+666,38,Windsor Court,Western Mid-Levels ,Flat C| High Floor|  Windsor Court| Western Mid-Levels ,$7.50M,$13.500,1.0,,25.0,71.0
+667,38,The Hudson,Western/Sheung Wan Central ,Flat C| High Floor|  The Hudson| Western/Sheung Wan Central ,$20.00M,$13.500,3.0,2.0,3.0,
+668,38,Claymore Lodge,Happy Valley/East Mid Level ,Flat A| High Floor|  Claymore Lodge| Happy Valley/East Mid Level ,$6.50M,$13.500,1.0,,29.0,67.0
+669,38,South Horizons,Ap Lei Chau ,Flat E| Low Floor|  Block 08| Phase 2| South Horizons| Ap Lei Chau ,$16.00M,$13.500,3.0,2.0,26.0,79.0
+670,38,Park Towers,North Point & North Point Midlevel ,Flat E| High Floor|  Block 1| Park Towers| North Point & North Point Midlevel ,$25.70M,$13.500,3.0,2.0,30.0,78.0
+671,38,Kornhill,Quarry Bay ,Flat 9| Low Floor|  Block D| Kornhill| Quarry Bay ,$10.00M,$13.500,3.0,2.0,33.0,79.0
+672,38,Everwell Garden,Homantin/Kingspark ,Flat G| Low Floor|  Everwell Gdn| Everwell Garden| Homantin/Kingspark ,$25.00M,$13.500,4.0,2.0,47.0,91.0
+673,38,Yuk Ming Court,Tseung Kwan O ,Flat 9| Low Floor|  Block A( Wai Ming Court )| Yuk Ming Court| Tseung Kwan O ,$5.80M(Prem. Not Paid),$13.500,,,23.0,73.0
+674,38,Peaceful Mansion,Cheung Sha Wan ,Flat E| Middle Floor|  Peaceful Mansion| Cheung Sha Wan ,$6.30M,$13.500,,,17.0,
+675,38,Aquamarine,Lai Chi Kok ,Flat D| Low Floor|  Block 5| Aquamarine| Lai Chi Kok ,$9.00M,$13.500,2.0,2.0,15.0,74.0
+676,38,Lime Stardom,Mongkok ,Flat K| Middle Floor|  Lime Stardom| Mongkok ,$8.38M,$13.500,1.0,2.0,7.0,78.0
+677,38,Victoria Skye,Kai Tak ,Flat F| Low Floor|  Ocean Waves Tower 2| Victoria Skye| Kai Tak ,$12.80M,$13.500,2.0,2.0,,
+678,38,Deep Water Bay Road 39,Repulse Bay & Shouson Hill , House| Deep Water Bay Road 39| Repulse Bay & Shouson Hill ,$280.00M,$13.500,4.0,2.0,32.0,84.0
+679,38,Liberte,Lai Chi Kok ,Flat G| Low Floor|  Block 5| Liberte| Lai Chi Kok ,$9.78M,$13.500,2.0,2.0,15.0,78.0
+680,38,Residence Bel-Air,Pokfulam/Residence , Bel-Air Peak Rise (House)| Phase 5 (Villa Bel-Air)| Residence Bel-Air| Pokfulam/Residence ,$298.00M,$13.500,,,12.0,68.0
+681,38,Bon-Point,Western Mid-Levels ,Flat B| High Floor|  Bon-Point| Western Mid-Levels ,$29.00M,$13.500,3.0,2.0,15.0,70.0
+682,38,Aria,Wong Tai Sin ,Flat A| Middle Floor|  Block 5| Aria| Wong Tai Sin ,$23.00M,$13.500,4.0,2.0,8.0,79.0
+683,38,Wan Chai,Causeway Bay ,Flat 5| High Floor|  Southorn Garden| Admiralty| Wan Chai| Causeway Bay ,$10.50M,$13.500,1.0,2.0,31.0,77.0
+684,39,The Bellevue Place,Western/Sheung Wan Central ,Flat D| Middle Floor|  The Bellevue Place| Western/Sheung Wan Central ,$8.10M,$13.500,2.0,,19.0,71.0
+685,39,Eltanin．Square Mile,Tai Kok Tsui ,Flat E| High Floor|  Block 1| Eltanin．Square Mile| Tai Kok Tsui ,$5.00M,$13.500,,2.0,2.0,
+686,39,Talloway Court,Stanley/Tai Tam/Shek O , Talloway Court| Stanley/Tai Tam/Shek O ,$12.00M,$13.500,,,42.0,74.0
+687,39,Discovery Park,Tsuen Wan ,Flat A| High Floor|  Block 09| Phase 3| Discovery Park| Tsuen Wan ,$12.00M,$13.500,3.0,2.0,21.0,80.0
+688,39,Savannah,Tseung Kwan O ,Flat E|  Block 3B| Savannah| Tseung Kwan O ,$8.20M,$13.500,,,2.0,
+689,39,Kennedy Town Centre,Western/Sheung Wan Central ,Flat E| High Floor|  Kennedy Town Centre| Western/Sheung Wan Central ,$15.00M,$13.500,3.0,1.0,24.0,78.0
+690,39,Banyan Garden,Lai Chi Kok ,Flat B| High Floor|  Block 5| Phase III| Banyan Garden| Lai Chi Kok ,$16.00M,$13.500,,,14.0,73.0
+691,39,Wan Chai,Causeway Bay ,Flat 191| High Floor|  Linfond Mansion| Admiralty| Wan Chai| Causeway Bay ,$8.68M,$13.500,3.0,,53.0,80.0
+692,39,Taikoo Shing,Taikoo Shing ,Flat A| Middle Floor|  Yat Tien Mansion| Horizon Gardens| Taikoo Shing| Taikoo Shing ,$14.50M,$13.500,2.0,2.0,30.0,83.0
+693,39,The Harbourside,Kowloon Station ,Flat B| High Floor|  Block 1| The Harbourside| Kowloon Station ,$70.00M,$13.500,3.0,1.0,16.0,74.0
+694,39,Taikoo Shing,Taikoo Shing ,Flat F| Low Floor|  Willow Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,$16.10M,$13.500,3.0,2.0,36.0,91.0
+695,39,Les Saisons,Sai Wan Ho ,Flat B| Low Floor|  Lhiver| Les Saisons| Sai Wan Ho ,$14.00M,$13.500,2.0,,17.0,74.0
+696,39,Residence 228,Sham Shui Po ,Flat B| Low Floor|  Residence 228| Sham Shui Po ,$7.50M,$13.500,1.0,1.0,7.0,73.0
+697,39,Grandview Garden,Aberdeen / Wong Chuk Hang ,Flat A| Middle Floor|  Block 1| Grandview Garden| Aberdeen / Wong Chuk Hang ,$6.80M,$13.500,2.0,2.0,34.0,73.0
+698,39,Hoi Lee Building,Western/Sheung Wan Central , Hoi Lee Building| Western/Sheung Wan Central ,$6.50M,$13.500,2.0,1.0,39.0,
+699,39,Parkway Court,Western Mid-Levels ,Flat 5| Low Floor|  Block A| Parkway Court| Western Mid-Levels ,$25.00M,$13.500,3.0,2.0,31.0,83.0
+700,39,Mei Foo Sun Chuen,Mei Foo ,Flat A| Low Floor|  Glee Path 11| Phase II| Mei Foo Sun Chuen| Mei Foo ,$10.30M,$13.500,3.0,2.0,47.0,73.0
+701,39,The Wings,Tseung Kwan O ,Flat D| Low Floor|  Tower 8| Phase 1| The Wings| Tseung Kwan O ,$10.50M,$13.500,,,7.0,77.0
+702,40,The Bellevue Place,Western/Sheung Wan Central ,Flat D| Middle Floor|  The Bellevue Place| Western/Sheung Wan Central ,$8.10M,$13.500,2.0,,19.0,71.0
+703,40,Eltanin．Square Mile,Tai Kok Tsui ,Flat E| High Floor|  Block 1| Eltanin．Square Mile| Tai Kok Tsui ,$5.00M,$13.500,,2.0,2.0,
+704,40,Talloway Court,Stanley/Tai Tam/Shek O , Talloway Court| Stanley/Tai Tam/Shek O ,$12.00M,$13.500,,,42.0,74.0
+705,40,Discovery Park,Tsuen Wan ,Flat A| High Floor|  Block 09| Phase 3| Discovery Park| Tsuen Wan ,$12.00M,$13.500,3.0,2.0,21.0,80.0
+706,40,Savannah,Tseung Kwan O ,Flat E|  Block 3B| Savannah| Tseung Kwan O ,$8.20M,$13.500,,,2.0,
+707,40,Kennedy Town Centre,Western/Sheung Wan Central ,Flat E| High Floor|  Kennedy Town Centre| Western/Sheung Wan Central ,$15.00M,$13.500,3.0,1.0,24.0,78.0
+708,40,Banyan Garden,Lai Chi Kok ,Flat B| High Floor|  Block 5| Phase III| Banyan Garden| Lai Chi Kok ,$16.00M,$13.500,,,14.0,73.0
+709,40,Wan Chai,Causeway Bay ,Flat 191| High Floor|  Linfond Mansion| Admiralty| Wan Chai| Causeway Bay ,$8.68M,$13.500,3.0,,53.0,80.0
+710,40,Taikoo Shing,Taikoo Shing ,Flat A| Middle Floor|  Yat Tien Mansion| Horizon Gardens| Taikoo Shing| Taikoo Shing ,$14.50M,$13.500,2.0,2.0,30.0,83.0
+711,40,The Harbourside,Kowloon Station ,Flat B| High Floor|  Block 1| The Harbourside| Kowloon Station ,$70.00M,$13.500,3.0,1.0,16.0,74.0
+712,40,Taikoo Shing,Taikoo Shing ,Flat F| Low Floor|  Willow Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,$16.10M,$13.500,3.0,2.0,36.0,91.0
+713,40,Les Saisons,Sai Wan Ho ,Flat B| Low Floor|  Lhiver| Les Saisons| Sai Wan Ho ,$14.00M,$13.500,2.0,,17.0,74.0
+714,40,Residence 228,Sham Shui Po ,Flat B| Low Floor|  Residence 228| Sham Shui Po ,$7.50M,$13.500,1.0,1.0,7.0,73.0
+715,40,Grandview Garden,Aberdeen / Wong Chuk Hang ,Flat A| Middle Floor|  Block 1| Grandview Garden| Aberdeen / Wong Chuk Hang ,$6.80M,$13.500,2.0,2.0,34.0,73.0
+716,40,Hoi Lee Building,Western/Sheung Wan Central , Hoi Lee Building| Western/Sheung Wan Central ,$6.50M,$13.500,2.0,1.0,39.0,
+717,40,Parkway Court,Western Mid-Levels ,Flat 5| Low Floor|  Block A| Parkway Court| Western Mid-Levels ,$25.00M,$13.500,3.0,2.0,31.0,83.0
+718,40,Mei Foo Sun Chuen,Mei Foo ,Flat A| Low Floor|  Glee Path 11| Phase II| Mei Foo Sun Chuen| Mei Foo ,$10.30M,$13.500,3.0,2.0,47.0,73.0
+719,40,The Wings,Tseung Kwan O ,Flat D| Low Floor|  Tower 8| Phase 1| The Wings| Tseung Kwan O ,$10.50M,$13.500,,,7.0,77.0
+720,41,Alto Residences,Tseung Kwan O ,Flat B|  Tower 2| Alto Residences| Tseung Kwan O ,$7.50M,$13.500,1.0,2.0,1.0,
+721,41,King's Hill,Western/Sheung Wan Central ,Flat G| High Floor|  King's Hill| Western/Sheung Wan Central ,$12.00M,$13.500,1.0,2.0,2.0,
+722,41,Savannah,Tseung Kwan O ,Flat E|  Block 3B| Savannah| Tseung Kwan O ,$7.00M,$13.500,,,2.0,
+723,41,La Cite Noble,Tseung Kwan O ,Flat G| High Floor|  Block 2| La Cite Noble| Tseung Kwan O ,$11.50M,$13.500,3.0,1.0,20.0,72.0
+724,41,The Hermitage,Olympic Station ,Flat C| High Floor|  Block 2| The Hermitage| Olympic Station ,$23.80M,$13.500,,,8.0,75.0
+725,41,Scenecliff,Western Mid-Levels ,Flat C| High Floor|  Block 2| Scenecliff| Western Mid-Levels ,$21.00M,$13.500,3.0,2.0,28.0,78.0
+726,41,The Coronation,Tsim Sha Tsui ,Flat A| High Floor|  Block 6| The Coronation| Tsim Sha Tsui ,$13.00M,$13.500,1.0,1.0,6.0,77.0
+727,41,Wan Chai,Causeway Bay ,Flat 252| Middle Floor|  Wang Gee Mansion| Wang Kee Building| Admiralty| Wan Chai| Causeway Bay ,$8.98M,$13.500,2.0,,49.0,80.0
+728,41,Wan Chai,Causeway Bay ,Flat A| Low Floor|  Block 2| Phase 1| The Zenith| Admiralty| Wan Chai| Causeway Bay ,$14.80M,$13.500,1.0,,13.0,73.0
+729,41,Robinson Place,Western Mid-Levels ,Flat G| Low Floor|  Block 2| Robinson Place| Western Mid-Levels ,$28.00M,$13.500,3.0,2.0,24.0,81.0
+730,41,On Tai Mansion,Hung Hom/Whampoa ,Flat A| High Floor|  On Tai Mansion| Hung Hom/Whampoa ,$5.92M,$13.500,2.0,,32.0,
+731,41,Park Metropolitan,Kwun Tong ,Flat G| Low Floor|  Park Metropolitan| Kwun Tong ,$11.00M,$13.500,2.0,1.0,5.0,
+732,41,Fortune Garden,Yau Yat Chuen/Shek Kip Mei ,High Floor|  Fortune Garden| Yau Yat Chuen/Shek Kip Mei ,$14.50M,$13.500,2.0,2.0,26.0,75.0
+733,41,Wan Chai,Causeway Bay ,Flat B| Low Floor|  Newtown Mansion| Admiralty| Wan Chai| Causeway Bay ,$26.00M,$13.500,2.0,2.0,54.0,80.0
+734,41,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  Yoo Residence| Admiralty| Wan Chai| Causeway Bay ,$11.00M,$13.500,1.0,1.0,3.0,71.0
+735,41,Mei Foo Sun Chuen,Mei Foo ,Flat C| Low Floor|  Nassau Street 34| Phase VI| Mei Foo Sun Chuen| Mei Foo ,$8.20M,$13.500,2.0,1.0,43.0,73.0
+736,41,The Pacifica,Lai Chi Kok ,Flat F| Middle Floor|  Block 6| Phase 2| The Pacifica| Lai Chi Kok ,$9.60M,$13.500,2.0,2.0,14.0,73.0
+737,41,City Garden,North Point & North Point Midlevel ,Flat B| High Floor|  Block 01| Phase 1| City Garden| North Point & North Point Midlevel ,$14.20M,$13.500,3.0,2.0,36.0,90.0
+738,42,Alto Residences,Tseung Kwan O ,Flat B|  Tower 2| Alto Residences| Tseung Kwan O ,$7.50M,$13.500,1.0,2.0,1.0,
+739,42,King's Hill,Western/Sheung Wan Central ,Flat G| High Floor|  King's Hill| Western/Sheung Wan Central ,$12.00M,$13.500,1.0,2.0,2.0,
+740,42,Savannah,Tseung Kwan O ,Flat E|  Block 3B| Savannah| Tseung Kwan O ,$7.00M,$13.500,,,2.0,
+741,42,La Cite Noble,Tseung Kwan O ,Flat G| High Floor|  Block 2| La Cite Noble| Tseung Kwan O ,$11.50M,$13.500,3.0,1.0,20.0,72.0
+742,42,The Hermitage,Olympic Station ,Flat C| High Floor|  Block 2| The Hermitage| Olympic Station ,$23.80M,$13.500,,,8.0,75.0
+743,42,Scenecliff,Western Mid-Levels ,Flat C| High Floor|  Block 2| Scenecliff| Western Mid-Levels ,$21.00M,$13.500,3.0,2.0,28.0,78.0
+744,42,The Coronation,Tsim Sha Tsui ,Flat A| High Floor|  Block 6| The Coronation| Tsim Sha Tsui ,$13.00M,$13.500,1.0,1.0,6.0,77.0
+745,42,Wan Chai,Causeway Bay ,Flat 252| Middle Floor|  Wang Gee Mansion| Wang Kee Building| Admiralty| Wan Chai| Causeway Bay ,$8.98M,$13.500,2.0,,49.0,80.0
+746,42,Wan Chai,Causeway Bay ,Flat A| Low Floor|  Block 2| Phase 1| The Zenith| Admiralty| Wan Chai| Causeway Bay ,$14.80M,$13.500,1.0,,13.0,73.0
+747,42,Robinson Place,Western Mid-Levels ,Flat G| Low Floor|  Block 2| Robinson Place| Western Mid-Levels ,$28.00M,$13.500,3.0,2.0,24.0,81.0
+748,42,On Tai Mansion,Hung Hom/Whampoa ,Flat A| High Floor|  On Tai Mansion| Hung Hom/Whampoa ,$5.92M,$13.500,2.0,,32.0,
+749,42,Park Metropolitan,Kwun Tong ,Flat G| Low Floor|  Park Metropolitan| Kwun Tong ,$11.00M,$13.500,2.0,1.0,5.0,
+750,42,Fortune Garden,Yau Yat Chuen/Shek Kip Mei ,High Floor|  Fortune Garden| Yau Yat Chuen/Shek Kip Mei ,$14.50M,$13.500,2.0,2.0,26.0,75.0
+751,42,Wan Chai,Causeway Bay ,Flat B| Low Floor|  Newtown Mansion| Admiralty| Wan Chai| Causeway Bay ,$26.00M,$13.500,2.0,2.0,54.0,80.0
+752,42,Wan Chai,Causeway Bay ,Flat D| Middle Floor|  Yoo Residence| Admiralty| Wan Chai| Causeway Bay ,$11.00M,$13.500,1.0,1.0,3.0,71.0
+753,42,Mei Foo Sun Chuen,Mei Foo ,Flat C| Low Floor|  Nassau Street 34| Phase VI| Mei Foo Sun Chuen| Mei Foo ,$8.20M,$13.500,2.0,1.0,43.0,73.0
+754,42,The Pacifica,Lai Chi Kok ,Flat F| Middle Floor|  Block 6| Phase 2| The Pacifica| Lai Chi Kok ,$9.60M,$13.500,2.0,2.0,14.0,73.0
+755,42,City Garden,North Point & North Point Midlevel ,Flat B| High Floor|  Block 01| Phase 1| City Garden| North Point & North Point Midlevel ,$14.20M,$13.500,3.0,2.0,36.0,90.0
+756,43,The Nova,Western/Sheung Wan Central ,Flat D|  The Nova| Western/Sheung Wan Central ,$11.50M,$13.500,1.0,2.0,3.0,
+757,43,Wan Chai,Causeway Bay ,Flat C| Low Floor|  The Oakhill| Admiralty| Wan Chai| Causeway Bay ,$23.50M,$13.500,3.0,2.0,8.0,75.0
+758,43,Wan Chai,Causeway Bay ,Flat 3| High Floor|  Wai Tak Building| Admiralty| Wan Chai| Causeway Bay ,$7.80M,$13.500,2.0,2.0,47.0,80.0
+759,43,Academic Terrace,Western/Sheung Wan Central ,Flat F| High Floor|  Block 3| Academic Terrace| Western/Sheung Wan Central ,$14.50M,$13.500,3.0,,29.0,84.0
+760,43,Taikoo Shing,Taikoo Shing ,Flat G| Low Floor|  Kin On Mansion| On Shing Terrace| Taikoo Shing| Taikoo Shing ,$10.50M,$13.500,2.0,2.0,38.0,84.0
+761,43,Metro Town,Tseung Kwan O ,Flat G| High Floor|  Block 6| Phase 2 (Le Point)| Metro Town| Tseung Kwan O ,$9.00M,$13.500,2.0,2.0,11.0,75.0
+762,43,Residence Bel-Air,Pokfulam/Residence ,Flat A|  Block 6| Phase 6 (Bel-Air No.8)| Residence Bel-Air| Pokfulam/Residence ,$43.80M,$13.500,3.0,2.0,10.0,71.0
+763,43,Sha Kok Mei,Sai Kung , Sha Kok Mei| Sai Kung ,$15.00M,$13.500,,,,
+764,43,Park Metropolitan,Kwun Tong ,Flat E| Low Floor|  Park Metropolitan| Kwun Tong ,$9.90M,$13.500,2.0,1.0,5.0,
+765,43,Valiant Park,Western Mid-Levels ,Flat A| High Floor|  Valiant Park| Western Mid-Levels ,$21.80M,$13.500,3.0,2.0,26.0,79.0
+766,43,Sha Kok Mei,Sai Kung , Sha Kok Mei| Sai Kung ,$8.50M,$13.500,,,,
+767,43,Sha Kok Mei,Sai Kung , Sha Kok Mei| Sai Kung ,$15.00M,$13.500,,,,
+768,43,Mei Foo Sun Chuen,Mei Foo ,Flat A| Middle Floor|  Nassau Street 09| Phase V| Mei Foo Sun Chuen| Mei Foo ,$10.38M,$13.500,2.0,1.0,46.0,76.0
+769,43,Sea View Mansion,Western/Sheung Wan Central ,Flat C| High Floor|  Sea View Mansion| Western/Sheung Wan Central ,$8.50M,$13.500,,,40.0,78.0
+770,43,Wai Wah Court,Western/Sheung Wan Central ,Flat A| High Floor|  Wai Wah Court| Western/Sheung Wan Central ,$12.98M,$13.500,3.0,,24.0,69.0
+771,43,Chuang's-On-The-Park,North Point & North Point Midlevel ,Flat B| Middle Floor|  Chuang's-On-The-Park| North Point & North Point Midlevel ,$10.88M,$13.500,1.0,2.0,26.0,76.0
+772,43,Amoy Gardens,Amoy/Kowloon Bay ,Flat 8| Middle Floor|  Block F| Phase 1| Amoy Gardens| Amoy/Kowloon Bay ,$7.00M,$13.500,2.0,2.0,38.0,78.0
+773,43,Taikoo Shing,Taikoo Shing ,Flat H| High Floor|  Banyan Mansion| Harbour View Gardens (West)| Taikoo Shing| Taikoo Shing ,$28.70M,$13.500,3.0,2.0,36.0,90.0
+774,44,Wan Chai,Causeway Bay ,Flat A| High Floor|  Pao Woo Mansion| Admiralty| Wan Chai| Causeway Bay ,$7.00M,$13.500,2.0,,46.0,71.0
+775,44,Crescent Heights,Happy Valley/East Mid Level ,Flat G| Low Floor|  Crescent Heights| Happy Valley/East Mid Level ,$26.80M,$13.500,3.0,2.0,22.0,79.0
+776,44,Cheung Wo Court,Kwun Tong ,Flat 4| Middle Floor|  Block D ( Wo Kin House )| Cheung Wo Court| Kwun Tong ,$7.20M(Prem. Paid),$13.500,3.0,2.0,35.0,83.0
+777,44,Primrose Court,Western Mid-Levels ,Flat C| High Floor|  Primrose Court| Western Mid-Levels ,$15.00M,$13.500,2.0,2.0,25.0,82.0
+778,44,Metro Town,Tseung Kwan O ,Flat F| Middle Floor|  Tower 1| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,$12.50M,$13.500,,,13.0,72.0
+779,44,Metro Harbour View,Tai Kok Tsui ,Flat E| High Floor|  Block 05| Phase 2| Metro Harbour View| Tai Kok Tsui ,$7.50M,$13.500,,2.0,15.0,72.0
+780,44,Metro Harbour View,Tai Kok Tsui ,Flat D| Middle Floor|  Block 09| Phase 2| Metro Harbour View| Tai Kok Tsui ,$7.50M,$13.500,,,15.0,70.0
+781,44,Green View Court,Western/Sheung Wan Central ,Flat A|  Green View Court| Western/Sheung Wan Central ,$7.80M,$13.500,2.0,,39.0,69.0
+782,44,Winfield Building,Happy Valley/East Mid Level ,Flat 1| Low Floor|  Block C| Winfield Building| Happy Valley/East Mid Level ,$38.00M,$13.500,3.0,2.0,34.0,82.0
+783,44,The Pacifica,Lai Chi Kok ,Flat F| High Floor|  Block 7| Phase 2| The Pacifica| Lai Chi Kok ,$9.50M,$13.500,2.0,,14.0,70.0
+784,44,Lime Stardom,Mongkok ,Flat D| High Floor|  Lime Stardom| Mongkok ,$9.80M,$13.500,,,7.0,78.0
+785,44,Yue Man Centre,Kwun Tong ,Flat C| Low Floor|  Block 2| Yue Man Centre| Kwun Tong ,$9.80M,$13.500,3.0,,31.0,81.0
+786,44,The Palace,Kln Tong / Beacon Hill ,Flat C| Low Floor|  The Palace| Kln Tong / Beacon Hill ,$20.20M,$13.500,2.0,2.0,16.0,75.0
+787,44,Redhill Peninsula,Stanley/Tai Tam/Shek O , Palm Drive (House)| Phase 1| Redhill Peninsula| Stanley/Tai Tam/Shek O ,$110.00M,$13.500,4.0,2.0,28.0,90.0
+788,44,Cluny Park,Western Mid-Levels ,Middle Floor|  Cluny Park| Western Mid-Levels ,$52.90M,$13.500,3.0,2.0,4.0,
+789,44,South Horizons,Ap Lei Chau ,Flat B| High Floor|  Block 13A| Phase 2| South Horizons| Ap Lei Chau ,$12.00M,$13.500,3.0,2.0,26.0,81.0
+790,44,Metro Harbour View,Tai Kok Tsui ,Flat H| High Floor|  Block 03| Phase 1| Metro Harbour View| Tai Kok Tsui ,$7.40M,$13.500,2.0,2.0,16.0,68.0
+791,44,Shing Loong Court,North Point & North Point Midlevel ,Flat B| High Floor|  Shing Loong Court| North Point & North Point Midlevel ,$32.50M,$13.500,3.0,2.0,33.0,82.0
+792,45,Elm Tree Towers,Happy Valley/East Mid Level ,Flat A1| Low Floor|  Block A| Elm Tree Towers| Happy Valley/East Mid Level ,$43.00M,$13.500,3.0,2.0,35.0,77.0
+793,45,Taikoo Shing,Taikoo Shing ,Flat E| Middle Floor|  Loong Shan Mansion| Kao Shan Terrace| Taikoo Shing| Taikoo Shing ,$13.48M,$13.500,3.0,2.0,40.0,87.0
+794,45,No.8 Clear Water Bay Road,Wong Tai Sin ,Flat H| Middle Floor|  Clear Water Bay Road 8| No.8 Clear Water Bay Road| Wong Tai Sin ,$15.50M,$13.500,4.0,2.0,13.0,75.0
+795,45,Wan Chai,Causeway Bay ,Flat I| Low Floor|  Malahon Apartments| Admiralty| Wan Chai| Causeway Bay ,$5.80M,$13.500,,,52.0,81.0
+796,45,Tseung Kwan O Plaza,Tseung Kwan O ,Flat F| High Floor|  Block 3A| Phase 1| Tseung Kwan O Plaza| Tseung Kwan O ,$8.50M,$13.500,2.0,1.0,16.0,73.0
+797,45,Ta Ho Tun Sheung Wai,Sai Kung , Ta Ho Tun Sheung Wai| Sai Kung ,$19.20M,$13.500,,,,
+798,45,The Ascent,Cheung Sha Wan ,Flat C| High Floor|  The Ascent| Cheung Sha Wan ,$6.60M,$13.500,1.0,,1.0,
+799,45,Ocean Shores,Tseung Kwan O ,Flat H| Middle Floor|  Block 17| Phase 3| Ocean Shores| Tseung Kwan O ,$9.60M,$13.500,,,16.0,73.0
+800,45,Corona Tower,Western Mid-Levels ,Flat E| Middle Floor|  Corona Tower| Western Mid-Levels ,$8.50M,$13.500,1.0,2.0,29.0,84.0
+801,45,Paradise Square,Jordan ,Flat F| High Floor|  Paradise Square| Jordan ,$10.55M,$13.500,,,16.0,71.0
+802,45,Lohas Park,Tseung Kwan O ,Flat A| Middle Floor|  Tower 3 L| Le Prestige| Lohas Park| Tseung Kwan O ,$9.00M,$13.500,,,9.0,75.0
+803,45,Ava 62,Jordan ,Flat D|  Ava 62| Jordan ,$6.00M,$13.500,,,2.0,
+804,45,Kowloon Tong Court,Kln Tong / Beacon Hill ,Flat A2|  Kowloon Tong Court| Kln Tong / Beacon Hill ,$29.80M,$13.500,,,54.0,80.0
+805,45,Heya Aqua,Cheung Sha Wan ,Flat E| Middle Floor|  Block 1| Heya Aqua| Cheung Sha Wan ,$6.80M,$13.500,1.0,,2.0,
+806,45,Cosmopolitan Estate,Tai Kok Tsui ,Flat 6| Low Floor|  Tai Wing Building| Cosmopolitan Estate| Tai Kok Tsui ,$4.68M,$13.500,,,44.0,76.0
+807,45,Wan Chai,Causeway Bay ,Flat D3| Low Floor|  Block D| Paterson Building| Admiralty| Wan Chai| Causeway Bay ,$11.28M,$13.500,2.0,2.0,59.0,75.0
+808,45,Conwell Villa,Yau Yat Chuen/Shek Kip Mei , 1 Cassia Road (House)| Conwell Villa| Yau Yat Chuen/Shek Kip Mei ,$48.80M,$13.500,3.0,2.0,22.0,76.0
+809,45,Island Garden,Shau Kei Wan/Chai Wan ,Flat E| Low Floor|  Block 5| Island Garden| Shau Kei Wan/Chai Wan ,$17.00M,$13.500,2.0,,,
+810,46,Pacific View,Stanley/Tai Tam/Shek O ,Flat A| High Floor|  Block 1| Pacific View| Stanley/Tai Tam/Shek O ,$38.00M,$13.500,3.0,2.0,28.0,79.0
+811,46,Beacon Heights,Yau Yat Chuen/Shek Kip Mei ,Flat F| High Floor|  Block 06| Phase 4| Beacon Heights| Yau Yat Chuen/Shek Kip Mei ,$16.50M,$13.500,3.0,2.0,32.0,83.0
+812,46,La Cite Noble,Tseung Kwan O ,Flat B| Middle Floor|  Block 6| La Cite Noble| Tseung Kwan O ,$9.00M,$13.500,3.0,2.0,20.0,73.0
+813,46,Kingston Mansion,Ap Lei Chau ,Flat A|  Kingston Mansion| Ap Lei Chau ,$8.48M,$13.500,,,18.0,69.0
+814,46,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 1 - T1A| Grand Austin| Tsim Sha Tsui ,$38.00M,$13.500,3.0,1.0,4.0,
+815,46,Winfield Building,Happy Valley/East Mid Level ,Flat A2| Low Floor|  Block A| Winfield Building| Happy Valley/East Mid Level ,$58.00M,$13.500,4.0,2.0,34.0,79.0
+816,46,Harbour Pinnacle,Tsim Sha Tsui ,Flat E|  Harbour Pinnacle| Tsim Sha Tsui ,$12.00M,$13.500,1.0,1.0,17.0,73.0
+817,46,Taikoo Shing,Taikoo Shing ,Flat H| Low Floor|  Marigold Mansion| Harbour View Gardens (East)| Taikoo Shing| Taikoo Shing ,$22.80M,$13.500,4.0,2.0,34.0,97.0
+818,46,Dragon Court,Homantin/Kingspark ,Flat 3| Low Floor|  Dragon Court| Homantin/Kingspark ,$13.00M,$13.500,3.0,2.0,52.0,75.0
+819,46,Tak Bo Building,Yau Ma Tei ,Flat B5| High Floor|  Tak Po Building| Tak Bo Building| Yau Ma Tei ,$7.50M,$13.500,,,39.0,
+820,46,The Wings,Tseung Kwan O ,Flat B| Low Floor|  Block 1B| Phase 2| The Wings| Tseung Kwan O ,$13.88M,$13.500,4.0,2.0,5.0,78.0
+821,46,Ihong Mansion,Western Mid-Levels ,Low Floor|  Ihong Mansion| Western Mid-Levels ,$18.00M,$13.500,3.0,2.0,34.0,78.0
+822,46,Capri,Tseung Kwan O ,Middle Floor|  Block 03| Capri| Tseung Kwan O ,$23.88M,$13.500,,,2.0,
+823,46,Baguio Villa,Pokfulam/Residence ,Flat C| Low Floor|  Block 20| Baguio Villa| Pokfulam/Residence ,$26.50M,$13.500,3.0,2.0,39.0,90.0
+824,46,Laichikok Bay Garden,Kwai Chung/Tsing Yi ,Flat 4| High Floor|  Block B| Laichikok Bay Garden| Kwai Chung/Tsing Yi ,$7.50M,$13.500,2.0,1.0,41.0,89.0
+825,46,Jardine's Lookout Garden Houses,Happy Valley/East Mid Level , 21-50 Moorsom Road (House)| Jardine's Lookout Garden Houses| Happy Valley/East Mid Level ,$125.00M,$13.500,5.0,2.0,42.0,
+826,46,Monterey,Tseung Kwan O ,Flat D| Low Floor|  Tower 5| Monterey| Tseung Kwan O ,$17.00M,$13.500,,,1.0,
+827,46,Wan Chai,Causeway Bay , Wan Fat Building| Admiralty| Wan Chai| Causeway Bay ,$7.60M,$13.500,4.0,,48.0,81.0
+828,47,Kornhill,Quarry Bay ,Flat 7| Middle Floor|  Block N| Kornhill| Quarry Bay ,$9.39M,$13.500,1.0,2.0,32.0,79.0
+829,47,Liberte,Lai Chi Kok ,Flat B| Low Floor|  Block 5| Liberte| Lai Chi Kok ,$8.70M,$13.500,,,15.0,75.0
+830,47,United Building,North Point & North Point Midlevel ,Flat A| Low Floor|  United Building| North Point & North Point Midlevel ,$12.00M,$13.500,3.0,2.0,52.0,80.0
+831,47,Honiton Building,Western Mid-Levels ,Flat A| High Floor|  Honiton Building| Western Mid-Levels ,$60.00M,$13.500,3.0,2.0,46.0,80.0
+832,47,The Legend At Jardine's Lookout,Happy Valley/East Mid Level ,Flat A| High Floor|  Block 5| The Legend At Jardine's Lookout| Happy Valley/East Mid Level ,$56.00M,$13.500,,,12.0,
+833,47,Marina Cove,Sai Kung , 380 Hiram's Highway (House)| Stage 4| Marina Cove| Sai Kung ,$35.00M,$13.500,,,30.0,72.0
+834,47,Charming Garden,Olympic Station ,Flat J| Low Floor|  Block 10| Charming Garden| Olympic Station ,$8.30M(Prem. Paid),$13.500,,,21.0,85.0
+835,47,Centre Place,Western Mid-Levels ,Flat A| Low Floor|  Centre Place| Western Mid-Levels ,$15.30M,$13.500,3.0,2.0,13.0,73.0
+836,47,Liberte,Lai Chi Kok ,Flat H| High Floor|  Block 8| Liberte| Lai Chi Kok ,$8.70M,$13.500,2.0,2.0,15.0,76.0
+837,47,The Parkside,Tseung Kwan O ,Flat D|  Block 3| The Parkside| Tseung Kwan O ,$12.48M,$13.500,,,3.0,
+838,47,Sherwood Court,Happy Valley/East Mid Level ,Flat A| Middle Floor|  Block 1| Sherwood Court| Happy Valley/East Mid Level ,$16.80M,$13.500,3.0,,30.0,88.0
+839,47,Windsor Court,Western Mid-Levels ,Flat D| Low Floor|  Windsor Court| Western Mid-Levels ,$11.50M,$13.500,1.0,,25.0,73.0
+840,47,Yip Cheung Building,Western/Sheung Wan Central ,Flat 26|  Yip Cheung Building| Western/Sheung Wan Central ,$8.20M,$13.500,3.0,,48.0,
+841,47,Parc Oasis,Yau Yat Chuen/Shek Kip Mei ,Flat A| Middle Floor|  Block 21| Parc Oasis| Yau Yat Chuen/Shek Kip Mei ,$13.00M,$13.500,3.0,2.0,25.0,80.0
+842,47,Jade Terrace,Happy Valley/East Mid Level ,Flat D| Middle Floor|  Jade Terrace| Happy Valley/East Mid Level ,$14.20M,$13.500,3.0,2.0,30.0,76.0
+843,47,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 5 - T5A| Grand Austin| Tsim Sha Tsui ,$39.36M,$13.500,3.0,1.0,4.0,
+844,47,Ping On Mansion,Western Mid-Levels ,Flat E| Low Floor|  Ping On Mansion| Western Mid-Levels ,$13.88M,$13.500,2.0,,61.0,70.0
+845,47,Twin Peaks,Tseung Kwan O ,Flat J| Middle Floor|  Tower 1| Twin Peaks| Tseung Kwan O ,$11.00M,$13.500,,,3.0,
+846,48,The Hemispheres,North Point & North Point Midlevel ,Flat A| Middle Floor|  The Hemispheres| North Point & North Point Midlevel ,$13.50M,$13.500,2.0,1.0,4.0,
+847,48,Park Central,Tseung Kwan O ,Flat C| High Floor|  Block 08| Phase 1| Park Central| Tseung Kwan O ,$8.00M,$13.500,,,16.0,74.0
+848,48,Sorrento,Kowloon Station ,Flat F| Middle Floor|  Block 6| Phase 1| Sorrento| Kowloon Station ,$30.00M,$13.500,3.0,1.0,16.0,75.0
+849,48,Ocean Shores,Tseung Kwan O ,Flat D| High Floor|  Block 07| Phase 2| Ocean Shores| Tseung Kwan O ,$9.00M,$13.500,,,17.0,74.0
+850,48,Wan Chai,Causeway Bay ,Flat H| Low Floor|  Yee On Building| Admiralty| Wan Chai| Causeway Bay ,$8.50M,$13.500,2.0,2.0,46.0,85.0
+851,48,Arezzo,Western Mid-Levels ,Flat C| Low Floor|  Arezzo| Western Mid-Levels ,$31.00M,$13.500,3.0,,4.0,
+852,48,Wyler Gardens,To Kwa Wan ,Flat 5| High Floor|  Block J| Hang Chien Court| Wyler Gardens| To Kwa Wan ,$5.30M,$13.500,2.0,2.0,40.0,85.0
+853,48,The Cullinan,Kowloon Station ,Flat A| Middle Floor|  Aster Sky| The Cullinan| Kowloon Station ,$44.00M,$13.500,3.0,1.0,12.0,73.0
+854,48,Glory Heights,Western Mid-Levels ,Flat D| High Floor|  Glory Heights| Western Mid-Levels ,$21.00M,$13.500,2.0,2.0,30.0,82.0
+855,48,Wan Chai,Causeway Bay ,Flat F|  Bright Star Mansion| Admiralty| Wan Chai| Causeway Bay ,$15.00M,$13.500,2.0,2.0,54.0,80.0
+856,48,Metro Town,Tseung Kwan O ,Flat A| High Floor|  Tower 2| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,$9.08M,$13.500,2.0,2.0,13.0,75.0
+857,48,Aberdeen Centre,Aberdeen / Wong Chuk Hang ,Flat 5| High Floor|  Kong Cheung Court| Aberdeen Centre| Aberdeen / Wong Chuk Hang ,$8.00M,$13.500,3.0,2.0,37.0,85.0
+858,48,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,$22.98M,$13.500,2.0,2.0,3.0,
+859,48,Baguio Villa,Pokfulam/Residence ,Flat A| High Floor|  Block 23| Baguio Villa| Pokfulam/Residence ,$30.00M,$13.500,,,39.0,89.0
+860,48,Kowloon Tong Garden,Kln Tong / Beacon Hill ,Low Floor|  Kowloon Tong Garden| Kln Tong / Beacon Hill ,$60.00M,$13.500,4.0,2.0,31.0,74.0
+861,48,Wan Chai,Causeway Bay ,Flat 29| Low Floor|  East Asia Mansion| Admiralty| Wan Chai| Causeway Bay ,$7.80M,$13.500,2.0,2.0,53.0,80.0
+862,48,Kensington Plaza,Mongkok ,Flat C| High Floor|  Kensington Plaza| Mongkok ,$15.80M,$13.500,3.0,1.0,20.0,72.0
+863,48,Garfield Mansion,Western Mid-Levels ,Flat C| Low Floor|  Garfield Mansion| Western Mid-Levels ,$18.80M,$13.500,3.0,,45.0,77.0
+864,49,The Hemispheres,North Point & North Point Midlevel ,Flat A| Middle Floor|  The Hemispheres| North Point & North Point Midlevel ,$13.50M,$13.500,2.0,1.0,4.0,
+865,49,Park Central,Tseung Kwan O ,Flat C| High Floor|  Block 08| Phase 1| Park Central| Tseung Kwan O ,$8.00M,$13.500,,,16.0,74.0
+866,49,Sorrento,Kowloon Station ,Flat F| Middle Floor|  Block 6| Phase 1| Sorrento| Kowloon Station ,$30.00M,$13.500,3.0,1.0,16.0,75.0
+867,49,Ocean Shores,Tseung Kwan O ,Flat D| High Floor|  Block 07| Phase 2| Ocean Shores| Tseung Kwan O ,$9.00M,$13.500,,,17.0,74.0
+868,49,Wan Chai,Causeway Bay ,Flat H| Low Floor|  Yee On Building| Admiralty| Wan Chai| Causeway Bay ,$8.50M,$13.500,2.0,2.0,46.0,85.0
+869,49,Arezzo,Western Mid-Levels ,Flat C| Low Floor|  Arezzo| Western Mid-Levels ,$31.00M,$13.500,3.0,,4.0,
+870,49,Wyler Gardens,To Kwa Wan ,Flat 5| High Floor|  Block J| Hang Chien Court| Wyler Gardens| To Kwa Wan ,$5.30M,$13.500,2.0,2.0,40.0,85.0
+871,49,The Cullinan,Kowloon Station ,Flat A| Middle Floor|  Aster Sky| The Cullinan| Kowloon Station ,$44.00M,$13.500,3.0,1.0,12.0,73.0
+872,49,Glory Heights,Western Mid-Levels ,Flat D| High Floor|  Glory Heights| Western Mid-Levels ,$21.00M,$13.500,2.0,2.0,30.0,82.0
+873,49,Wan Chai,Causeway Bay ,Flat F|  Bright Star Mansion| Admiralty| Wan Chai| Causeway Bay ,$15.00M,$13.500,2.0,2.0,54.0,80.0
+874,49,Metro Town,Tseung Kwan O ,Flat A| High Floor|  Tower 2| Phase 1 (Metro Town)| Metro Town| Tseung Kwan O ,$9.08M,$13.500,2.0,2.0,13.0,75.0
+875,49,Aberdeen Centre,Aberdeen / Wong Chuk Hang ,Flat 5| High Floor|  Kong Cheung Court| Aberdeen Centre| Aberdeen / Wong Chuk Hang ,$8.00M,$13.500,3.0,2.0,37.0,85.0
+876,49,Homantin Hillside,Hung Hom ,Flat B|  Block 2| Homantin Hillside| Hung Hom ,$22.98M,$13.500,2.0,2.0,3.0,
+877,49,Baguio Villa,Pokfulam/Residence ,Flat A| High Floor|  Block 23| Baguio Villa| Pokfulam/Residence ,$30.00M,$13.500,,,39.0,89.0
+878,49,Kowloon Tong Garden,Kln Tong / Beacon Hill ,Low Floor|  Kowloon Tong Garden| Kln Tong / Beacon Hill ,$60.00M,$13.500,4.0,2.0,31.0,74.0
+879,49,Wan Chai,Causeway Bay ,Flat 29| Low Floor|  East Asia Mansion| Admiralty| Wan Chai| Causeway Bay ,$7.80M,$13.500,2.0,2.0,53.0,80.0
+880,49,Kensington Plaza,Mongkok ,Flat C| High Floor|  Kensington Plaza| Mongkok ,$15.80M,$13.500,3.0,1.0,20.0,72.0
+881,49,Garfield Mansion,Western Mid-Levels ,Flat C| Low Floor|  Garfield Mansion| Western Mid-Levels ,$18.80M,$13.500,3.0,,45.0,77.0
+882,50,The Victoria Towers,Tsim Sha Tsui ,Flat A| Middle Floor|  Block 1| The Victoria Towers| Tsim Sha Tsui ,$15.00M,$13.500,2.0,1.0,16.0,69.0
+883,50,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 3 - T3A| Grand Austin| Tsim Sha Tsui ,$43.00M,$13.500,3.0,1.0,4.0,
+884,50,The Altitude,Happy Valley/East Mid Level ,Flat A| Low Floor|  The Altitude| Happy Valley/East Mid Level ,$42.00M,$13.500,3.0,2.0,8.0,78.0
+885,50,Chenyu Court,Central Mid-Levels & Peak ,High Floor|  Chenyu Court| Central Mid-Levels & Peak ,$34.00M,$13.500,2.0,2.0,53.0,81.0
+886,50,Metro Harbour View,Tai Kok Tsui ,Flat F| High Floor|  Block 08| Phase 2| Metro Harbour View| Tai Kok Tsui ,$8.10M,$13.500,,,15.0,71.0
+887,50,The Long Beach,Olympic Station ,Flat C| High Floor|  Block 7| The Long Beach| Olympic Station ,$12.50M,$13.500,2.0,1.0,14.0,75.0
+888,50,Harbour One,Western/Sheung Wan Central ,Flat B| High Floor|  Harbour One| Western/Sheung Wan Central ,$36.00M,$13.500,3.0,2.0,7.0,74.0
+889,50,Stanford Villa,Stanley/Tai Tam/Shek O , Block 4| Stanford Villa| Stanley/Tai Tam/Shek O ,$31.80M,$13.500,3.0,2.0,24.0,81.0
+890,50,The Masterpiece,Tsim Sha Tsui ,Flat A| High Floor|  The Masterpiece| Tsim Sha Tsui ,$35.00M,$13.500,3.0,1.0,10.0,72.0
+891,50,Glory Heights,Western Mid-Levels ,Flat D| High Floor|  Glory Heights| Western Mid-Levels ,$29.50M,$13.500,2.0,2.0,30.0,82.0
+892,50,Telford Gardens,Amoy/Kowloon Bay ,Flat 14| High Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,$8.00M,$13.500,2.0,2.0,37.0,87.0
+893,50,Telford Gardens,Amoy/Kowloon Bay ,Flat 6| Low Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,$7.50M,$13.500,2.0,2.0,37.0,87.0
+894,50,Splendour Villa,Repulse Bay & Shouson Hill ,Flat B| Low Floor|  Splendour Villa| Repulse Bay & Shouson Hill ,$18.00M,$13.500,1.0,,25.0,77.0
+895,50,Metro City,Tseung Kwan O ,Flat A| Middle Floor|  Block 05| Phase 1| Metro City| Tseung Kwan O ,$8.78M,$13.500,3.0,2.0,22.0,75.0
+896,50,Hing Yip King's Building,Prince Edward Rd ,High Floor|  Hing Yip King's Building| Prince Edward Rd ,$18.00M,$13.500,3.0,2.0,54.0,79.0
+897,50,Wan Chai,Causeway Bay ,Flat K|  Tower 3| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,$15.80M,$13.500,1.0,,4.0,
+898,50,Banyan Garden,Lai Chi Kok ,Flat H| Middle Floor|  Block 2| Phase I| Banyan Garden| Lai Chi Kok ,$8.70M,$13.500,2.0,2.0,16.0,70.0
+899,50,Grand Waterfront,To Kwa Wan ,Flat E| Low Floor|  Block 2| Grand Waterfront| To Kwa Wan ,$11.00M,$13.500,,,12.0,72.0
+900,51,The Victoria Towers,Tsim Sha Tsui ,Flat A| Middle Floor|  Block 1| The Victoria Towers| Tsim Sha Tsui ,$15.00M,$13.500,2.0,1.0,16.0,69.0
+901,51,Grand Austin,Tsim Sha Tsui ,Flat A|  Tower 3 - T3A| Grand Austin| Tsim Sha Tsui ,$43.00M,$13.500,3.0,1.0,4.0,
+902,51,The Altitude,Happy Valley/East Mid Level ,Flat A| Low Floor|  The Altitude| Happy Valley/East Mid Level ,$42.00M,$13.500,3.0,2.0,8.0,78.0
+903,51,Chenyu Court,Central Mid-Levels & Peak ,High Floor|  Chenyu Court| Central Mid-Levels & Peak ,$34.00M,$13.500,2.0,2.0,53.0,81.0
+904,51,Metro Harbour View,Tai Kok Tsui ,Flat F| High Floor|  Block 08| Phase 2| Metro Harbour View| Tai Kok Tsui ,$8.10M,$13.500,,,15.0,71.0
+905,51,The Long Beach,Olympic Station ,Flat C| High Floor|  Block 7| The Long Beach| Olympic Station ,$12.50M,$13.500,2.0,1.0,14.0,75.0
+906,51,Harbour One,Western/Sheung Wan Central ,Flat B| High Floor|  Harbour One| Western/Sheung Wan Central ,$36.00M,$13.500,3.0,2.0,7.0,74.0
+907,51,Stanford Villa,Stanley/Tai Tam/Shek O , Block 4| Stanford Villa| Stanley/Tai Tam/Shek O ,$31.80M,$13.500,3.0,2.0,24.0,81.0
+908,51,The Masterpiece,Tsim Sha Tsui ,Flat A| High Floor|  The Masterpiece| Tsim Sha Tsui ,$35.00M,$13.500,3.0,1.0,10.0,72.0
+909,51,Glory Heights,Western Mid-Levels ,Flat D| High Floor|  Glory Heights| Western Mid-Levels ,$29.50M,$13.500,2.0,2.0,30.0,82.0
+910,51,Telford Gardens,Amoy/Kowloon Bay ,Flat 14| High Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,$8.00M,$13.500,2.0,2.0,37.0,87.0
+911,51,Telford Gardens,Amoy/Kowloon Bay ,Flat 6| Low Floor|  Block U| Telford Gardens| Amoy/Kowloon Bay ,$7.50M,$13.500,2.0,2.0,37.0,87.0
+912,51,Splendour Villa,Repulse Bay & Shouson Hill ,Flat B| Low Floor|  Splendour Villa| Repulse Bay & Shouson Hill ,$18.00M,$13.500,1.0,,25.0,77.0
+913,51,Metro City,Tseung Kwan O ,Flat A| Middle Floor|  Block 05| Phase 1| Metro City| Tseung Kwan O ,$8.78M,$13.500,3.0,2.0,22.0,75.0
+914,51,Hing Yip King's Building,Prince Edward Rd ,High Floor|  Hing Yip King's Building| Prince Edward Rd ,$18.00M,$13.500,3.0,2.0,54.0,79.0
+915,51,Wan Chai,Causeway Bay ,Flat K|  Tower 3| Phase 2| The Avenue| Admiralty| Wan Chai| Causeway Bay ,$15.80M,$13.500,1.0,,4.0,
+916,51,Banyan Garden,Lai Chi Kok ,Flat H| Middle Floor|  Block 2| Phase I| Banyan Garden| Lai Chi Kok ,$8.70M,$13.500,2.0,2.0,16.0,70.0
+917,51,Grand Waterfront,To Kwa Wan ,Flat E| Low Floor|  Block 2| Grand Waterfront| To Kwa Wan ,$11.00M,$13.500,,,12.0,72.0
