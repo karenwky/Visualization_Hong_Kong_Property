@@ -21,7 +21,7 @@ Most of the number of transactions are within the range 200. N.T. East(grey box)
 From the *total* number of transaction data, slightly difference is shown compared with distribution data by estate. Although N.T. East has the highest upper extreme and highest median for number of transaction(refer to the boxplot above), it is only the third highest district in total number of transaction. But with a lot of outliers, Kowloon Central is the district with highest total number of transaction. <br/>
 <br/>
 <br/>
-<img src="/images/3d_scatter.png" alt="3D Scatter Plot" width=600><br/>
+<img src="/images/3D_scatter.gif" alt="3D Scatter Plot" width=600><br/>
 From our scraped data, the selling price is mostly within HKD 50 million. The flats mainly have 1-4 bedrooms, and the efficiency ratio is mostly between the range 60 to 90 percent. <br/>
 
 ### Detailed Presentation
