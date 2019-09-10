@@ -1,4 +1,4 @@
-# Visualization_Hong_Kong_Property
+# Visualization: Hong Kong Property
 With data scraped from Hong Kong Property [website](https://en.hkp.com.hk/find-property/), a EDA(Exploratory Aata Analysis) project is conducted. 
 
 ### Data Source
@@ -22,7 +22,7 @@ From the *total* number of transaction data, slightly difference is shown compar
 <br/>
 <br/>
 <img src="/images/3D_scatter.gif" alt="3D Scatter Plot" width=600><br/>
-From our scraped data, the selling price is mostly within HKD 50 million. The flats mainly have 1-4 bedrooms, and the efficiency ratio is mostly between the range 60 to 90 percent. <br/>
+From the scraped data, the selling price is mostly within HKD 50 million. The flats mainly have 1-4 bedrooms, and the efficiency ratio is mostly between the range 60 to 90 percent. <br/>
 
 ### Detailed Presentation
 * Check out complete workflow with [Google Slides](). (WIP)
