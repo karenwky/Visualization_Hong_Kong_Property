@@ -25,7 +25,8 @@ From the *total* number of transaction data, slightly difference is shown compar
 From the scraped data, the selling price is mostly within HKD 50 million. The flats mainly have 1-4 bedrooms, and the efficiency ratio is mostly between the range 60 to 90 percent. <br/>
 
 ### Detailed Presentation
-* Check out complete workflow with [Google Slides](). (WIP)
+![Slides](/images/slides.gif)
+* Check out complete workflow with [Keynote](./slides.key).
 * Check out complete code with [Jupyter Notebook](https://github.com/yyzz1010/Visualization_Hong_Kong_Property/tree/master/code). 
 
 ### Skills Acquired
