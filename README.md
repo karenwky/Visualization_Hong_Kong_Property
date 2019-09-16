@@ -1,14 +1,14 @@
 # Visualization: Hong Kong Property
 With data scraped from Hong Kong Property [website](https://en.hkp.com.hk/find-property/), a EDA(Exploratory Aata Analysis) project is conducted. 
 
-### Data Source
+## Data Source
 1. [Transaction History](https://app2.hkp.com.hk/utx/default.jsp?lang=en)<br/>
 Having transaction data within 3 years, explore the distribution of property transaction in Hong Kong.
 
 2. [Find Property](https://en.hkp.com.hk/find-property/#list)<br/>
 Scraping property details such as number of bedrooms and selling price, discover the correlation between various features. 
 
-### Findings
+## Findings
 ![Property Transactions in HK by District](/images/by_district.png)<br/>
 Two clusters can be simply divided according to the data. For the purple districts, only a few number of estates have relatively high number of transactions in the district. On the contrast, for the cyan districts, relatively high number of estates have high number of transactions in the district. The purple districts are having a more skewed distribution than the cyan districts. <br/>
 <br/>
@@ -24,12 +24,12 @@ From the *total* number of transaction data, slightly difference is shown compar
 <img src="/images/3D_scatter.gif" alt="3D Scatter Plot" width=600><br/>
 From the scraped data, the selling price is mostly within HKD 50 million. The flats mainly have 1-4 bedrooms, and the efficiency ratio is mostly between the range 60 to 90 percent. <br/>
 
-### Detailed Presentation
+## Detailed Presentation
 ![Slides](/images/slides.gif)
 * Check out complete workflow with [Keynote](./slides.key).
 * Check out complete code with [Jupyter Notebook](https://github.com/yyzz1010/Visualization_Hong_Kong_Property/tree/master/code). 
 
-### Skills Acquired
+## Skills Acquired
 * Pandas
 * Beautiful Soup
 * Regex text cleaning 
