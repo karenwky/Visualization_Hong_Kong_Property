@@ -1,5 +1,5 @@
 # Visualization: Hong Kong Property
-With data scraped from Hong Kong Property [website](https://en.hkp.com.hk/find-property/), a EDA(Exploratory Aata Analysis) project is conducted. 
+With data scraped from Hong Kong Property [website](https://en.hkp.com.hk/find-property/), a EDA(Exploratory Data Analysis) project is conducted. 
 
 ## Data Source
 1. [Transaction History](https://app2.hkp.com.hk/utx/default.jsp?lang=en)<br/>
